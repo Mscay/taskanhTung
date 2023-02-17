@@ -131,4 +131,23 @@ the /root folder is actually the home for the "root" system user
  <img width="891" alt="image" src="https://user-images.githubusercontent.com/72620926/219759705-7f36996e-4b2d-48ba-ade2-bbb058d57284.png">
 
 ## Task 4 - General/Useful Utilities
+### Download the file http://MACHINE_IP:8000/.flag.txt onto the TryHackMe AttackBox. What are the contents?
+Nhập lệnh "wget http://MACHINE_IP:8000/.flag.txt" để tải file .flag.txt.
+<img width="370" alt="Screenshot_20230218_023329" src="https://user-images.githubusercontent.com/72620926/219787090-906ee108-24ff-4a8b-96a0-d9de5083677b.png">
 
+Sau đó dùng lệnh "cat .flag.txt" để xem nội dung trong file
+<img width="211" alt="Screenshot_20230218_023429" src="https://user-images.githubusercontent.com/72620926/219787452-e9be1af6-db7b-4632-9d69-764ad3b60fdc.png">
+
+<img width="905" alt="Screenshot_20230218_024024" src="https://user-images.githubusercontent.com/72620926/219787489-9dcd9785-5081-4679-aea1-c3c4cfd219df.png">
+
+## Task 5 - Processes 101
+### If we were to launch a process where the previous ID was "300", what would the ID of this new process be?
+The PID increments for the order In which the process starts. I.e. the 60th process will have a PID of 60.
+<img width="890" alt="Screenshot_20230218_030157" src="https://user-images.githubusercontent.com/72620926/219787639-00dbe474-648e-471f-99ed-c9c8c1c3934a.png">
+
+### If we wanted to cleanly kill a process, what signal would we send it?
+<img width="897" alt="Screenshot_20230218_030417" src="https://user-images.githubusercontent.com/72620926/219787815-d06f528b-2646-4f39-ba6e-708172f72173.png">
+
+### Locate the process that is running on the deployed instance (MACHINE_IP). What flag is given?
+Nhập 
+<img width="419" alt="Screenshot_20230218_030625" src="https://user-images.githubusercontent.com/72620926/219787876-08c16ed5-d400-4ea4-b392-e859db8ea18d.png">
