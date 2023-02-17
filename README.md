@@ -164,4 +164,10 @@ Nhập lệnh "ps aux", enter, sau đó tìm flag.
 <img width="896" alt="Screenshot_20230218_031439" src="https://user-images.githubusercontent.com/72620926/219788410-66735aea-5427-4cab-b749-1b20e1469b6d.png">
 
 ## Task 6 - Maintaining Your System: Automation
-###
+### When will the crontab on the deployed instance (MACHINE_IP) run?
+Nhập lệnh "crontab -e", enter
+<img width="410" alt="Screenshot_20230218_034316" src="https://user-images.githubusercontent.com/72620926/219789058-5214c25a-1341-407e-820a-037bd0aef1aa.png">
+
+<img width="906" alt="image" src="https://user-images.githubusercontent.com/72620926/219789281-35e891e9-f886-4588-9c01-580e577e5e54.png">
+
+## Task 7 - Maintaining Your System: Package Management
