@@ -171,3 +171,24 @@ Nhập lệnh "crontab -e", enter
 <img width="906" alt="image" src="https://user-images.githubusercontent.com/72620926/219789281-35e891e9-f886-4588-9c01-580e577e5e54.png">
 
 ## Task 7 - Maintaining Your System: Package Management
+## Task 8 - Maintaining Your System: Logs
+### What is the IP address of the user who visited the site?
+Đầu tiên nhập lệnh "cd /var/log" để chuyến đến thư mục log.
+
+Sau đó nhập lệnh "ls" để xem list các mục trong thư mục, tìm mục apache2.
+<img width="420" alt="Screenshot_20230218_035634" src="https://user-images.githubusercontent.com/72620926/219791754-8f995d81-d823-4ecf-94f7-e538b491cde0.png">
+
+Nhập lệnh "cd apache2" để vào thư mục này và tiếp tục nhập "ls" để xem danh sách file. Vì user ở đây là tryhackme nên cần để ý đến dòng thứ 2 trong bảng, nó thuộc file access.log.1
+
+Dùng lệnh "cat access.log.1" để đọc nôi dung của file, sẽ thấy phần ip ở đầu tiên.
+
+<img width="394" alt="Screenshot_20230218_040102" src="https://user-images.githubusercontent.com/72620926/219792475-192c6a5f-7545-4b65-8835-8ef3f2d07803.png">
+
+<img width="910" alt="image" src="https://user-images.githubusercontent.com/72620926/219793245-6da9a9e6-1e4a-4201-aeea-a3c269f7c337.png">
+
+### What file did they access?
+Phần được bôi đen chính là file đã được truy cập.
+
+<img width="393" alt="Screenshot_20230218_040736" src="https://user-images.githubusercontent.com/72620926/219793499-d0b70dd8-a15c-437e-9ea6-f5252903e72c.png">
+
+<img width="913" alt="image" src="https://user-images.githubusercontent.com/72620926/219793741-b84041fd-feea-4f9d-85cc-297f3e83acf5.png">
