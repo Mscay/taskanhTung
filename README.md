@@ -149,5 +149,19 @@ The PID increments for the order In which the process starts. I.e. the 60th proc
 <img width="897" alt="Screenshot_20230218_030417" src="https://user-images.githubusercontent.com/72620926/219787815-d06f528b-2646-4f39-ba6e-708172f72173.png">
 
 ### Locate the process that is running on the deployed instance (MACHINE_IP). What flag is given?
-Nhập 
+Nhập lệnh "ps aux", enter, sau đó tìm flag.
 <img width="419" alt="Screenshot_20230218_030625" src="https://user-images.githubusercontent.com/72620926/219787876-08c16ed5-d400-4ea4-b392-e859db8ea18d.png">
+
+<img width="902" alt="image" src="https://user-images.githubusercontent.com/72620926/219788182-a9cccd48-9d49-4a87-9e23-a54fc8874af2.png">
+
+### What command would we use to stop the service "myservice"?
+<img width="897" alt="Screenshot_20230218_031049" src="https://user-images.githubusercontent.com/72620926/219788249-05db3793-6231-419a-b20c-485905f85a59.png">
+
+### What command would we use to start the same service on the boot-up of the system?
+<img width="901" alt="Screenshot_20230218_031319" src="https://user-images.githubusercontent.com/72620926/219788341-df27de06-f6be-41b4-95b3-a8c253508784.png">
+
+### What command would we use to bring a previously backgrounded process back to the foreground?
+<img width="896" alt="Screenshot_20230218_031439" src="https://user-images.githubusercontent.com/72620926/219788410-66735aea-5427-4cab-b749-1b20e1469b6d.png">
+
+## Task 6 - Maintaining Your System: Automation
+###
