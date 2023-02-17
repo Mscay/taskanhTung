@@ -124,5 +124,11 @@ the /root folder is actually the home for the "root" system user
 <img width="904" alt="image" src="https://user-images.githubusercontent.com/72620926/219655738-3e309a4a-dd44-4e51-884e-b3434cdb6b24.png">
  
  # linuxfundamentalspart3
+ ## Task 3 - Terminal Text Editors
+ ### Edit "task3" located in "tryhackme"'s home directory using Nano. What is the flag?
+ Nhập lệnh "nano task3" 
  
+ <img width="891" alt="image" src="https://user-images.githubusercontent.com/72620926/219759705-7f36996e-4b2d-48ba-ade2-bbb058d57284.png">
+
+## Task 4 - General/Useful Utilities
 
