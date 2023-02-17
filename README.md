@@ -55,16 +55,25 @@
 
 ## Task 5 - Interacting With the Filesystem!
 ### On the Linux machine that you deploy, how many folders are there?
-<img width="775" alt="Screenshot_20230216_035238" src="https://user-images.githubusercontent.com/72620926/219315884-09228599-5fd8-42c8-8f28-4c0ab30d09b6.png">
+<img width="281" alt="Screenshot_20230218_041236" src="https://user-images.githubusercontent.com/72620926/219794428-73c7efe6-ac95-4903-a3e6-5de2e5eefc17.png">
+
+<img width="909" alt="image" src="https://user-images.githubusercontent.com/72620926/219794549-3522273f-5d6b-4830-9076-0ac93cb3072c.png">
 
 ### Which directory contains a file? 
-<img width="809" alt="Screenshot_20230216_035603" src="https://user-images.githubusercontent.com/72620926/219316531-3aaf5623-732c-43f2-92c7-55553f3b8810.png">
+thử lệnh "ls" cho cả 4 folders, xem folder nào chứa file.
+<img width="902" alt="image" src="https://user-images.githubusercontent.com/72620926/219794747-e5ac14d6-e0f7-4924-9cbd-546d4ad4c7b0.png">
 
 ### What is the contents of this file?
-<img width="765" alt="Screenshot_20230216_035753" src="https://user-images.githubusercontent.com/72620926/219316920-39956dec-3ed2-4cda-b350-42436e7f785d.png">
+Dùng lệnh "cat folder4/note.txt" để chuyển sang folder4 và đọc file note.txt trong folder4.
+<img width="247" alt="Screenshot_20230218_041703" src="https://user-images.githubusercontent.com/72620926/219795188-9130056b-326f-4311-8e12-78d7b430f52a.png">
+
+<img width="914" alt="image" src="https://user-images.githubusercontent.com/72620926/219795497-59ec71a2-7fea-4f16-94fc-0b2728fada50.png">
 
 ### Use the cd command to navigate to this file and find out the new current working directory. What is the path?
-<img width="786" alt="Screenshot_20230216_040704" src="https://user-images.githubusercontent.com/72620926/219319129-7cc21081-4a6b-497c-aa4c-8358eb43d74f.png">
+Nhập lệnh "cd folder4" để chuyển sang folder4 và dùng lệnh "pwd" để xem đường dẫn.
+<img width="215" alt="image" src="https://user-images.githubusercontent.com/72620926/219795645-c0656b32-e700-4ec1-bebc-4395b1aa12af.png">
+
+<img width="921" alt="image" src="https://user-images.githubusercontent.com/72620926/219795854-09ff118a-9be3-41ea-8194-f45fda0e22c2.png">
 
 ## Task 6 - Searching for Files
 ### Use grep on "access.log" to find the flag that has a prefix of "THM". What is the flag?
