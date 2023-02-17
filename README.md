@@ -73,5 +73,26 @@
 ## Task 7 - An Introduction to Shell Operators
 <img width="891" alt="Screenshot_20230216_041558" src="https://user-images.githubusercontent.com/72620926/219321326-a6a993ac-17fd-4c2b-ad4b-3a988d7a1fc6.png">
 
+# linuxfundamentalspart2
+## Task 3 - Introduction to Flags and Switches
+### What directional arrow key would we use to navigate down the manual page?
+Nhập "man ls" trên terminal sau đó thử dùng các nút điều hướng -> câu trả lời là "down".
+### What flag would we use to display the output in a "human-readable" way?
+Nhập "man ls" sau đó lướt xuống để tìm trong phần "DESCRIPTION".
+<img width="474" alt="Screenshot_20230217_045234" src="https://user-images.githubusercontent.com/72620926/219620090-696c8858-1508-45a1-98b7-a43076240611.png">
 
+## Task 4 - Filesystem Interaction Continued
+### How would you create the file named "newnote"?
+<img width="439" alt="image" src="https://user-images.githubusercontent.com/72620926/219619410-75f8fc70-284b-412d-9882-80d50eba6982.png">
+
+### On the deployable machine, what is the file type of "unknown1" in "tryhackme's" home directory?
+Nhập lệnh "file unknown1" trong attackbox để xác định kiểu file.
+<img width="290" alt="image" src="https://user-images.githubusercontent.com/72620926/219618818-658933f9-38bd-4263-874e-0b1dc85833a0.png">
+
+### How would we move the file "myfile" to the directory "myfolder" 
+<img width="445" alt="image" src="https://user-images.githubusercontent.com/72620926/219621220-5e9287e8-d559-4e30-8428-13d1c7cd94f4.png">
+
+### What are the contents of this file?
+Nhập lệnh "cat myfile" để đọc nội dung file myfile.
+<img width="309" alt="image" src="https://user-images.githubusercontent.com/72620926/219621814-fc0b93b5-36cd-48a8-bd20-72bb18efaed6.png">
 
