@@ -96,3 +96,33 @@ Nhập lệnh "file unknown1" trong attackbox để xác định kiểu file.
 Nhập lệnh "cat myfile" để đọc nội dung file myfile.
 <img width="309" alt="image" src="https://user-images.githubusercontent.com/72620926/219621814-fc0b93b5-36cd-48a8-bd20-72bb18efaed6.png">
 
+## Task 5 - Permissions 101
+### On the deployable machine, who is the owner of "important"?
+Nhập lệnh "ls -al".
+
+<img width="424" alt="image" src="https://user-images.githubusercontent.com/72620926/219650312-74047c69-00dd-46ca-ad70-a1e04fea83d6.png">
+
+### What would the command be to switch to the user "user2"?
+<img width="882" alt="Screenshot_20230217_071345" src="https://user-images.githubusercontent.com/72620926/219651034-a1a41503-5378-4dc6-85e6-9e486fca356a.png">
+
+### Output the contents of "important", what is the flag?
+Nhập lệnh "cat important" để xem nội dung trong important
+<img width="901" alt="image" src="https://user-images.githubusercontent.com/72620926/219652564-77f7f150-aed2-446c-88cb-8451ec75635c.png">
+
+## Task 6 - Common Directories
+### What is the directory path that would we expect logs to be stored in?
+<img width="908" alt="image" src="https://user-images.githubusercontent.com/72620926/219654357-dae686f7-23db-4f42-9a8b-e53f29e6c29e.png">
+
+### What root directory is similar to how RAM on a computer works?
+This is a unique root directory found on a Linux install. Short for "temporary", the /tmp directory is volatile and is used to store data that is only needed to be accessed once or twice. Similar to the memory on your computer, once the computer is restarted, the contents of this folder are cleared out.
+
+<img width="887" alt="image" src="https://user-images.githubusercontent.com/72620926/219655412-f0184590-0d7b-4edd-bdfc-c770a59cb177.png">
+
+### Name the home directory of the root user 
+the /root folder is actually the home for the "root" system user
+ 
+<img width="904" alt="image" src="https://user-images.githubusercontent.com/72620926/219655738-3e309a4a-dd44-4e51-884e-b3434cdb6b24.png">
+ 
+ # linuxfundamentalspart3
+ 
+
