@@ -309,3 +309,10 @@ Tra gg email sẽ thấy có 3 trang: wordpress, twitter và github. Vào từng
 <img width="896" alt="image" src="https://user-images.githubusercontent.com/72620926/219848904-a4c22ada-061d-4e52-aebb-5ebc460bb9c6.png">
 
 ### Where has he gone on holiday?
+Trong wordpress đã nói rằng ông này đang ở new york: 
+
+<img width="577" alt="image" src="https://user-images.githubusercontent.com/72620926/219849342-f955b8a1-2c20-41f4-bbd7-b6dd8e956744.png">
+
+<img width="897" alt="image" src="https://user-images.githubusercontent.com/72620926/219849396-1c2feead-5c65-4a6e-a53a-90fe903beacb.png">
+
+
