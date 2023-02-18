@@ -303,3 +303,9 @@ Lướt xem phần comment sẽ thấy có 1 comment email
 <img width="899" alt="image" src="https://user-images.githubusercontent.com/72620926/219848560-911d698f-c6ea-4d7e-aeea-d8114677e192.png">
 
 ### What site did you find his email address on?
+Tra gg email sẽ thấy có 3 trang: wordpress, twitter và github. Vào từng trang một thì sẽ thấy email trong trang github:
+<img width="671" alt="image" src="https://user-images.githubusercontent.com/72620926/219848886-73d25ce3-1ec5-4495-893e-ca44d18d44aa.png">
+
+<img width="896" alt="image" src="https://user-images.githubusercontent.com/72620926/219848904-a4c22ada-061d-4e52-aebb-5ebc460bb9c6.png">
+
+### Where has he gone on holiday?
