@@ -201,3 +201,23 @@ Phần được bôi đen chính là file đã được truy cập.
 <img width="393" alt="Screenshot_20230218_040736" src="https://user-images.githubusercontent.com/72620926/219793499-d0b70dd8-a15c-437e-9ea6-f5252903e72c.png">
 
 <img width="913" alt="image" src="https://user-images.githubusercontent.com/72620926/219793741-b84041fd-feea-4f9d-85cc-297f3e83acf5.png">
+
+# googledorking
+## Task 2 - Let's Learn About Crawlers
+### Name the key term of what a "Crawler" is used to do
+The diagram below is a high-level abstraction of how these web crawlers work. Once a web crawler discovers a domain such as mywebsite.com, it will index the entire contents of the domain, looking for keywords and other miscellaneous information
+
+<img width="896" alt="image" src="https://user-images.githubusercontent.com/72620926/219825919-cc4a8ef5-f01f-4428-9ae6-73ae0ff83123.png">
+
+### What is the name of the technique that "Search Engines" use to retrieve this information about websites?
+<img width="917" alt="image" src="https://user-images.githubusercontent.com/72620926/219826351-e95b84df-82e6-48a3-80ab-1140d531e358.png">
+
+<img width="145" alt="image" src="https://user-images.githubusercontent.com/72620926/219826396-7c6f8b2c-735b-4749-a57c-f43082dcaf4c.png">
+
+### What is an example of the type of contents that could be gathered from a website?
+<img width="257" alt="image" src="https://user-images.githubusercontent.com/72620926/219826517-eeec64d0-dd37-4d89-b289-1cfca2ade171.png">
+
+<img width="915" alt="image" src="https://user-images.githubusercontent.com/72620926/219826539-0e9ac6dd-cb67-4d4d-bdb7-e9b9f5ea558a.png">
+
+## Task 3 - Enter: Search Engine Optimisation
+
