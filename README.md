@@ -241,4 +241,12 @@ Dựa vào tên file cấu hình "configuration" và hint "system files are usua
 <img width="891" alt="image" src="https://user-images.githubusercontent.com/72620926/219830110-f91cf4ec-31da-4472-9d5f-3ae827f2a1d3.png">
 
 ## Task 5 - Sitemaps
+### What is the typical file structure of a "Sitemap"?
+“Sitemaps” are XML formatted
+### What real life example can "Sitemaps" be compared to?
+Comparable to geographical maps in real life, “Sitemaps” are just that - but for websites!
+### Name the keyword for the path taken for content on a website
+he blue rectangles represent the route to nested-content, similar to a directory I.e. “Products” for a store
+<img width="890" alt="image" src="https://user-images.githubusercontent.com/72620926/219830444-64379cc8-2972-4a3e-80c1-29f9cb9d71f3.png">
 
+## Task 6 - What is Google Dorking?
