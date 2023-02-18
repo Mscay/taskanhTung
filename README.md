@@ -250,3 +250,13 @@ he blue rectangles represent the route to nested-content, similar to a directory
 <img width="890" alt="image" src="https://user-images.githubusercontent.com/72620926/219830444-64379cc8-2972-4a3e-80c1-29f9cb9d71f3.png">
 
 ## Task 6 - What is Google Dorking?
+### What would be the format used to query the site bbc.co.uk about flood defences
+<img width="761" alt="image" src="https://user-images.githubusercontent.com/72620926/219830804-3cee8298-8108-4f49-a540-84527442c1e2.png">
+
+### What term would you use to search by file type?
+<img width="901" alt="image" src="https://user-images.githubusercontent.com/72620926/219830814-573b0cf5-a576-4a79-949b-78e2a0089be4.png">
+
+### What term can we use to look for login pages?
+Vì là trang login nên phải có "login" trong tiêu đề của trang -> dùng term "intitle"
+<img width="762" alt="image" src="https://user-images.githubusercontent.com/72620926/219830827-1d10bfaf-3994-41ca-a42f-69c93f35645d.png">
+
