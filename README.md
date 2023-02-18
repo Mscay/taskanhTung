@@ -322,3 +322,17 @@ Vào trang wordpress thì sẽ không thấy gì đặc biệt, nhưng khi bôi 
 
 <img width="903" alt="image" src="https://user-images.githubusercontent.com/72620926/219857175-052bdca7-44aa-440f-88dd-3a9bf678c1b7.png">
 
+# shodan
+## Task 2 - Filters
+### How do we find Eternal Blue exploits on Shodan?
+Let’s say we want to find IP addresses vulnerable to Eternal Blue:
+
+vuln:ms17-010
+
+<img width="901" alt="image" src="https://user-images.githubusercontent.com/72620926/219888843-8edf5dc1-e712-4cfb-818e-e04cb6d2e72f.png">
+
+## Task 3 - Google & Filtering
+### What is the top operating system for MYSQL servers in Google's ASN?
+Đầu tiên, Tra gg tìm google's asn (AS15169).
+
+TRa trên shodan "ASN:AS15169 product:MySQL"
