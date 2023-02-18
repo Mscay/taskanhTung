@@ -270,3 +270,13 @@ Vì là trang login nên phải có "login" trong tiêu đề của trang -> dù
 Chú ý phần copyright "OWoodflint", tra gg OWoodflint thì ra 1 trang twitter
 
 <img width="517" alt="image" src="https://user-images.githubusercontent.com/72620926/219836585-8d347005-318a-4b94-8d7c-d96cffb933ae.png">
+
+Đọc bài tweet thấy có 1 bài như sau:
+
+<img width="342" alt="image" src="https://user-images.githubusercontent.com/72620926/219838480-c4d2f52a-71e3-4084-8548-4211f2c0de95.png">
+
+Dưới phần bình luận có 1 đoạn mã base64
+
+<img width="513" alt="image" src="https://user-images.githubusercontent.com/72620926/219838725-d00d1982-35c3-4c2c-8a85-f02910a4e17a.png">
+
+Sau khi giải mã đoạn code trên thì nhận được "Give wigle.net a try", tra gg wigle.net.
