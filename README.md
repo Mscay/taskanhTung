@@ -315,4 +315,10 @@ Trong wordpress đã nói rằng ông này đang ở new york:
 
 <img width="897" alt="image" src="https://user-images.githubusercontent.com/72620926/219849396-1c2feead-5c65-4a6e-a53a-90fe903beacb.png">
 
+### What is this persons password?
+Vào trang wordpress thì sẽ không thấy gì đặc biệt, nhưng khi bôi đen hết các dòng chữ thì sẽ hiện ra 1 dòng kí tự được viết bằng màu trắng:
+"pennYDr0pper.!"
+<img width="609" alt="Screenshot_20230218_060857" src="https://user-images.githubusercontent.com/72620926/219857160-db7460bd-9572-4352-bfaa-f35ab8135b2e.png">
+
+<img width="903" alt="image" src="https://user-images.githubusercontent.com/72620926/219857175-052bdca7-44aa-440f-88dd-3a9bf678c1b7.png">
 
