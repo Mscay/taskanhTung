@@ -280,3 +280,8 @@ Dưới phần bình luận có 1 đoạn mã base64
 <img width="513" alt="image" src="https://user-images.githubusercontent.com/72620926/219838725-d00d1982-35c3-4c2c-8a85-f02910a4e17a.png">
 
 Sau khi giải mã đoạn code trên thì nhận được "Give wigle.net a try", tra gg wigle.net.
+<img width="924" alt="image" src="https://user-images.githubusercontent.com/72620926/219847868-d71e8583-f650-4566-a72e-8efe1581f908.png">
+
+Dán "B4:5D:50:AA:86:41" vào phần BSSID/MAC: rồi chọn "view basic" và tìm chấm màu tím như hình -> câu trả lời là london.
+<img width="771" alt="image" src="https://user-images.githubusercontent.com/72620926/219847954-049a9272-30cf-4870-b099-910fe082737a.png">
+
