@@ -260,3 +260,13 @@ he blue rectangles represent the route to nested-content, similar to a directory
 Vì là trang login nên phải có "login" trong tiêu đề của trang -> dùng term "intitle"
 <img width="762" alt="image" src="https://user-images.githubusercontent.com/72620926/219830827-1d10bfaf-3994-41ca-a42f-69c93f35645d.png">
 
+# ohsint
+## Task 1 - OHSINT
+### What is this users avatar of?
+Đầu tiên là tải file task, sau đó dùng exiftool để xem thông tin về file ảnh vừa tải
+
+<img width="447" alt="image" src="https://user-images.githubusercontent.com/72620926/219836187-18c68022-62af-4978-8623-8d704e7e3fc3.png">
+
+Chú ý phần copyright "OWoodflint", tra gg OWoodflint thì ra 1 trang twitter
+
+<img width="517" alt="image" src="https://user-images.githubusercontent.com/72620926/219836585-8d347005-318a-4b94-8d7c-d96cffb933ae.png">
