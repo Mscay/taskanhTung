@@ -289,4 +289,11 @@ Sau khi giải mã đoạn code trên thì nhận được "Give wigle.net a try
 Paste "B4:5D:50:AA:86:41" vào phần BSSID/MAC: rồi chọn "view basic" và tìm chấm màu tím như hình -> câu trả lời là london.
 <img width="771" alt="image" src="https://user-images.githubusercontent.com/72620926/219847954-049a9272-30cf-4870-b099-910fe082737a.png">
 
+### Whats the SSID of the WAP he connected to?
+Phóng to điểm màu tím sẽ ra tên wifi
+<img width="890" alt="image" src="https://user-images.githubusercontent.com/72620926/219848444-c1fac541-5138-4587-b4c0-6d2c1ea9ad28.png">
+
+<img width="232" alt="image" src="https://user-images.githubusercontent.com/72620926/219848404-6942edce-17a0-4408-a758-846fee677172.png">
+
+### What is his personal email address?
 
