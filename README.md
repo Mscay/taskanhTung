@@ -220,4 +220,25 @@ The diagram below is a high-level abstraction of how these web crawlers work. On
 <img width="915" alt="image" src="https://user-images.githubusercontent.com/72620926/219826539-0e9ac6dd-cb67-4d4d-bdb7-e9b9f5ea558a.png">
 
 ## Task 3 - Enter: Search Engine Optimisation
+## Task 4 - Beepboop - Robots.txt
+### Where would "robots.txt" be located on the domain "ablog.com"
+<img width="761" alt="image" src="https://user-images.githubusercontent.com/72620926/219830002-7ff0feb4-8e68-4d1a-a89e-cf76ae9268ac.png">
+
+### If a website was to have a sitemap, where would that be located?
+Dựa theo những ảnh chụp trong phần lý thuyết 
+<img width="356" alt="image" src="https://user-images.githubusercontent.com/72620926/219830052-1155a57d-87b9-4baf-82c1-d43b08c11b19.png">
+
+<img width="887" alt="image" src="https://user-images.githubusercontent.com/72620926/219830029-a290f0b2-34e2-4b6a-9b07-c40bb84cb0dc.png">
+
+### How would we only allow "Bingbot" to index the website?
+<img width="902" alt="image" src="https://user-images.githubusercontent.com/72620926/219830073-479eac02-d6bd-48b3-81e1-d5296bd98fc8.png">
+
+### How would we prevent a "Crawler" from indexing the directory "/dont-index-me/"?
+<img width="888" alt="image" src="https://user-images.githubusercontent.com/72620926/219830085-d2792f7f-fb80-457c-9bd8-3b2e94401487.png">
+
+### What is the extension of a Unix/Linux system configuration file that we might want to hide from "Crawlers"?
+Dựa vào tên file cấu hình "configuration" và hint "system files are usually 3/4 characters!"
+<img width="891" alt="image" src="https://user-images.githubusercontent.com/72620926/219830110-f91cf4ec-31da-4472-9d5f-3ae827f2a1d3.png">
+
+## Task 5 - Sitemaps
 
