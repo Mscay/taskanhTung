@@ -296,4 +296,10 @@ Phóng to điểm màu tím sẽ ra tên wifi
 <img width="232" alt="image" src="https://user-images.githubusercontent.com/72620926/219848404-6942edce-17a0-4408-a758-846fee677172.png">
 
 ### What is his personal email address?
+Lướt xem phần comment sẽ thấy có 1 comment email
 
+<img width="515" alt="image" src="https://user-images.githubusercontent.com/72620926/219848526-071cfb52-7c17-475c-8009-73bfb36ff614.png">
+
+<img width="899" alt="image" src="https://user-images.githubusercontent.com/72620926/219848560-911d698f-c6ea-4d7e-aeea-d8114677e192.png">
+
+### What site did you find his email address on?
