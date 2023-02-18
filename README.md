@@ -271,6 +271,10 @@ Chú ý phần copyright "OWoodflint", tra gg OWoodflint thì ra 1 trang twitter
 
 <img width="517" alt="image" src="https://user-images.githubusercontent.com/72620926/219836585-8d347005-318a-4b94-8d7c-d96cffb933ae.png">
 
+Thấy avatar là 1 con mèo -> câu trả lời là cat
+<img width="761" alt="image" src="https://user-images.githubusercontent.com/72620926/219848058-52c16c37-3ba6-48cb-9b71-3b7ed64c1489.png">
+
+### What city is this person in?
 Đọc bài tweet thấy có 1 bài như sau:
 
 <img width="342" alt="image" src="https://user-images.githubusercontent.com/72620926/219838480-c4d2f52a-71e3-4084-8548-4211f2c0de95.png">
@@ -282,6 +286,7 @@ Dưới phần bình luận có 1 đoạn mã base64
 Sau khi giải mã đoạn code trên thì nhận được "Give wigle.net a try", tra gg wigle.net.
 <img width="924" alt="image" src="https://user-images.githubusercontent.com/72620926/219847868-d71e8583-f650-4566-a72e-8efe1581f908.png">
 
-Dán "B4:5D:50:AA:86:41" vào phần BSSID/MAC: rồi chọn "view basic" và tìm chấm màu tím như hình -> câu trả lời là london.
+Paste "B4:5D:50:AA:86:41" vào phần BSSID/MAC: rồi chọn "view basic" và tìm chấm màu tím như hình -> câu trả lời là london.
 <img width="771" alt="image" src="https://user-images.githubusercontent.com/72620926/219847954-049a9272-30cf-4870-b099-910fe082737a.png">
+
 
