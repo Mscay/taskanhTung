@@ -335,4 +335,18 @@ vuln:ms17-010
 ### What is the top operating system for MYSQL servers in Google's ASN?
 Đầu tiên, Tra gg tìm google's asn (AS15169).
 
-TRa trên shodan "ASN:AS15169 product:MySQL"
+TRa trên shodan "ASN:AS15169 product:MySQL", nhưng mà nó không ra nên phải dùng hint thôi chứ em hết cách rồi.
+<img width="319" alt="Screenshot_20230219_023933" src="https://user-images.githubusercontent.com/72620926/219936023-5ffba7cf-6a3b-4162-99f0-ed45706733ec.png">
+
+<img width="900" alt="Screenshot_20230219_024037" src="https://user-images.githubusercontent.com/72620926/219936037-9f364743-76fe-4600-b1a6-85fe94eb8af7.png">
+
+### What is the 2nd most popular country for MYSQL servers in Google's ASN?
+Ở vị trí thứ hai là "netherland"
+<img width="301" alt="Screenshot_20230219_024109" src="https://user-images.githubusercontent.com/72620926/219936076-9c25b46b-1523-4fa2-8624-a61498122a73.png">
+
+### Under Google's ASN, which is more popular for nginx, Hypertext Transfer Protocol or Hypertext Transfer Protocol with SSL?
+Dựa vào format answer thì ra được câu trả lời là "Hypertext Transfer Protocol".
+<img width="899" alt="image" src="https://user-images.githubusercontent.com/72620926/219936114-78b9ee02-096a-4f7a-968d-76be2fa4ecec.png">
+
+### Under Google's ASN, what is the most popular city?
+
