@@ -371,4 +371,9 @@ Tra trên Shodan "ASN:AS15169 tags:webcam" và không có webcam nào
 <img width="895" alt="image" src="https://user-images.githubusercontent.com/72620926/219936670-3214391a-5218-4b53-80a0-8b81d34743e7.png">
 
 ## Task 4 - Shodan Monitor
+### What URL takes you to Shodan Monitor?
+<img width="894" alt="image" src="https://user-images.githubusercontent.com/72620926/219937011-7a4cd8c2-f61a-40a4-b600-2420e4238d96.png">
 
+## Task 5 - Shodan Dorking
+### What dork lets us find PCs infected by Ransomware?
+<img width="901" alt="image" src="https://user-images.githubusercontent.com/72620926/219937058-5bcdb688-5cd7-47a8-b7cd-6318a5fa5284.png">
