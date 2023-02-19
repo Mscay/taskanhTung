@@ -349,4 +349,20 @@ Dựa vào format answer thì ra được câu trả lời là "Hypertext Transf
 <img width="899" alt="image" src="https://user-images.githubusercontent.com/72620926/219936114-78b9ee02-096a-4f7a-968d-76be2fa4ecec.png">
 
 ### Under Google's ASN, what is the most popular city?
+Vì US là nước đừng đầu trong top countries nên tra trên shodan thêm phần country "ASN:AS15169 product:MySQL country:"US""
+<img width="225" alt="image" src="https://user-images.githubusercontent.com/72620926/219936243-ea7c940b-0ead-40af-a08f-63a9542fbd44.png">
+
+Mặc dù "Council Bluffs" là nước đứng đầu, tuy nhiên điền vào phần đáp án lại không được. Thử dến "Los Angeles" rồi đến "Mountain view" thì mới được.
+<img width="893" alt="image" src="https://user-images.githubusercontent.com/72620926/219936338-60e7604b-e6ed-42c3-92c8-2349e8da590e.png">
+
+### Under Google's ASN in Los Angeles, what is the top operating system according to Shodan?
+Tra "ASN:AS15169 product:MySQL country:"US" city:"Los Angeles"" trên Shodan, nhưng lại không có kết quả.
+
+<img width="281" alt="Screenshot_20230219_030444" src="https://user-images.githubusercontent.com/72620926/219936495-0f3d8700-a7d9-4f74-8aad-c6fab2bbb6e5.png">
+
+Nên vẫn dùng kết quả của hint
+
+<img width="899" alt="image" src="https://user-images.githubusercontent.com/72620926/219936531-aa87a5ed-40f3-4a16-ae09-770a0d47ebc7.png">
+
+### Using the top Webcam search from the explore page, does Google's ASN have any webcams? Yay / nay.
 
