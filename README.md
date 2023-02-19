@@ -377,3 +377,24 @@ Tra trên Shodan "ASN:AS15169 tags:webcam" và không có webcam nào
 ## Task 5 - Shodan Dorking
 ### What dork lets us find PCs infected by Ransomware?
 <img width="901" alt="image" src="https://user-images.githubusercontent.com/72620926/219937058-5bcdb688-5cd7-47a8-b7cd-6318a5fa5284.png">
+
+# Intro to Digital Forensics
+## Task 1 - Introduction To Digital Forensics
+<img width="894" alt="Screenshot_20230219_034242" src="https://user-images.githubusercontent.com/72620926/219939252-48c29078-c645-46ff-a838-fbfcdcc6bb4f.png">
+
+## Task 2 - Digital Forensics Process
+### It is essential to keep track of who is handling it at any point in time to ensure that evidence is admissible in the court of law. What is the name of the documentation that would help establish that?
+Chain of custody: This is necessary to keep track of who was holding the evidence at any time.
+
+<img width="888" alt="Screenshot_20230219_035204" src="https://user-images.githubusercontent.com/72620926/219939295-8be2ce15-2163-4071-8342-21948e285ceb.png">
+
+## Task 3 - Practical Example of Digital Forensics
+Using pdfinfo, find out the author of the attached PDF file.
+
+<img width="442" alt="image" src="https://user-images.githubusercontent.com/72620926/219939340-d22c3b42-2d77-42f7-9e28-24f97eff9853.png">
+
+Thấy phần "author" là  "Ann Gree Shepherd"
+
+<img width="888" alt="image" src="https://user-images.githubusercontent.com/72620926/219939407-7285e9a0-91d2-465d-a2d0-3ccc696b4543.png">
+
+### Using exiftool or any similar tool, try to find where the kidnappers took the image they attached to their document. What is the name of the street?
