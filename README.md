@@ -425,3 +425,11 @@ chú ý dòng "Camera model name".
 # Windows Fundamentals 1
 ## Task 2 - Windows Editions
 ### What encryption can you enable on Pro that you can't enable in Home?
+<img width="796" alt="image" src="https://user-images.githubusercontent.com/72620926/220171525-b83cdf57-d13f-43e3-8b68-cf87bfb6c185.png">
+
+So sánh giữa 2 bản thì thấy phần Bitlocker device encryption có bên bản pro còn home thì không.
+
+<img width="902" alt="image" src="https://user-images.githubusercontent.com/72620926/220171798-db96c7b7-c318-41e5-a53e-c95886cfedbb.png">
+
+## Task 3 - The Desktop (GUI)
+### Which selection will hide/disable the Search box?
