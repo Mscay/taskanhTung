@@ -398,7 +398,7 @@ Thấy phần "author" là  "Ann Gree Shepherd"
 <img width="888" alt="image" src="https://user-images.githubusercontent.com/72620926/219939407-7285e9a0-91d2-465d-a2d0-3ccc696b4543.png">
 
 ### Using exiftool or any similar tool, try to find where the kidnappers took the image they attached to their document. What is the name of the street?
-Dùng lệnh "exiftool letter-image.jpg" trong ubuntu.j
+Dùng lệnh "exiftool letter-image.jpg" trong ubuntu
 
 <img width="612" alt="image" src="https://user-images.githubusercontent.com/72620926/220008415-1f5b44b0-e7d8-4f34-886a-9b3c9079f025.png">
 
