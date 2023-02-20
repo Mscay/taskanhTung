@@ -421,3 +421,7 @@ chú ý dòng "Camera model name".
 <img width="391" alt="Screenshot_20230220_112507" src="https://user-images.githubusercontent.com/72620926/220009501-7048e153-2704-4a52-81fc-4225e32e22e4.png">
 
 <img width="903" alt="image" src="https://user-images.githubusercontent.com/72620926/220009692-6e08c476-ccd5-4365-b6a3-baaa7ce2c621.png">
+
+# Windows Fundamentals 1
+## Task 2 - Windows Editions
+### What encryption can you enable on Pro that you can't enable in Home?
