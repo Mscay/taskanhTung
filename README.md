@@ -398,3 +398,26 @@ Thấy phần "author" là  "Ann Gree Shepherd"
 <img width="888" alt="image" src="https://user-images.githubusercontent.com/72620926/219939407-7285e9a0-91d2-465d-a2d0-3ccc696b4543.png">
 
 ### Using exiftool or any similar tool, try to find where the kidnappers took the image they attached to their document. What is the name of the street?
+Dùng lệnh "exiftool letter-image.jpg" trong ubuntu.j
+
+<img width="612" alt="image" src="https://user-images.githubusercontent.com/72620926/220008415-1f5b44b0-e7d8-4f34-886a-9b3c9079f025.png">
+
+Chú ý phần GPS lattitude, longitude và position. chuyển đổi sang dạng decimal để tra gg map.
+
+<img width="516" alt="image" src="https://user-images.githubusercontent.com/72620926/220008471-1b435355-0241-4534-b596-dfe441fa61ae.png">
+
+<img width="443" alt="image" src="https://user-images.githubusercontent.com/72620926/220008647-2da9d792-d8fb-4dcc-9be6-77e7c9facfad.png">
+
+Đây là thông tin thu được khi tra gg map
+
+<img width="943" alt="image" src="https://user-images.githubusercontent.com/72620926/220008796-eaa3bb60-c9bf-4f97-b67a-aeeec762c788.png">
+
+Phần vị trí ở khung bên trái, thấy tên con phố là "milk street".
+
+<img width="889" alt="image" src="https://user-images.githubusercontent.com/72620926/220008998-cdce2896-18cf-4724-a0de-65cb101b4e45.png">
+
+### What is the model name of the camera used to take this photo?
+chú ý dòng "Camera model name".
+<img width="391" alt="Screenshot_20230220_112507" src="https://user-images.githubusercontent.com/72620926/220009501-7048e153-2704-4a52-81fc-4225e32e22e4.png">
+
+<img width="903" alt="image" src="https://user-images.githubusercontent.com/72620926/220009692-6e08c476-ccd5-4365-b6a3-baaa7ce2c621.png">
