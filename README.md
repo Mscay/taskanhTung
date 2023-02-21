@@ -575,3 +575,58 @@ Cái này tra gg là ra.
 
 ## Task 4 - Standard Collector Analysis
 ### Provide the Operating System detected for the workstation.
+<img width="893" alt="image" src="https://user-images.githubusercontent.com/72620926/220436895-8d5d0995-d981-4a3b-941b-05254844c9e4.png">
+
+Vào phần system information tab và cuộn xuống thì sẽ thấy
+### Provide the BIOS Version for the workstation.
+<img width="897" alt="image" src="https://user-images.githubusercontent.com/72620926/220437154-57e14171-fca8-4288-9a8f-ba4ae399e719.png">
+
+Vẫn ở trong phần system information đó
+
+<img width="354" alt="image" src="https://user-images.githubusercontent.com/72620926/220437249-13bb755b-7d81-4d9b-baf3-dea69a5173b3.png">
+
+### What is the suspicious scheduled task that got created on the victim's computer? 
+Vào phần task và tìm cái tên khả nghi
+<img width="448" alt="image" src="https://user-images.githubusercontent.com/72620926/220437639-3baf6e26-c32e-47ad-b24a-047cf4701b3e.png">
+
+<img width="892" alt="image" src="https://user-images.githubusercontent.com/72620926/220437804-a4ce175f-de2c-40fb-801c-4ca15531c9a4.png">
+
+### Find the message that the intruder left for you in the task.
+Đọc phần comment của ảnh phía trên (trong phần task), comment đó chính là message cần tìm.
+
+<img width="904" alt="image" src="https://user-images.githubusercontent.com/72620926/220438104-54ea1bc2-75ef-4344-b66b-20882215b151.png">
+
+### There is a new System Event ID created by an intruder with the source name "THM-Redline-User" and the Type "ERROR". Find the Event ID #.
+Vào phần Event Logs và tra "THM-Redline-User" sẽ thấy được file cần tìm có type "error".
+
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/72620926/220438637-dcf075a1-fabc-4cb1-983b-60259078c8e5.png">
+
+Để ý thấy EID là 546.
+
+<img width="891" alt="image" src="https://user-images.githubusercontent.com/72620926/220438753-2ad648f8-a693-4e5b-93c6-284086ed5188.png">
+
+### Provide the message for the Event ID.
+Vẫn ảnh câu phía trên, để ý phần message
+
+<img width="894" alt="image" src="https://user-images.githubusercontent.com/72620926/220438940-f11ddaf7-94f8-4aa3-9b24-09f37342c0a2.png">
+
+### It looks like the intruder downloaded a file containing the flag for Question 8. Provide the full URL of the website.
+Vào phần File download history và tìm file nào đó có vẻ ám muội thì tìm được file có tên là flag.txt
+
+Dòng ở cột source URL là câu trả lời
+
+<img width="898" alt="image" src="https://user-images.githubusercontent.com/72620926/220439423-48879f38-2c6a-4bbe-a58f-f437a4220343.png">
+
+### Provide the full path to where the file was downloaded to including the filename.
+Vẫn ở phần File download history copy phần Target directory và thêm \flag.txt.
+
+<img width="891" alt="image" src="https://user-images.githubusercontent.com/72620926/220439654-11e79e9e-ab44-43c7-ae93-129119913495.png">
+
+### Provide the message the intruder left for you in the file.
+Mở file flag.txt đó ra thì nhận được "THM{600D-C@7cH-My-FR1EnD}" và đây là câu trả lời
+
+<img width="889" alt="image" src="https://user-images.githubusercontent.com/72620926/220439870-b59a1733-b1ce-48be-afe4-989b2ee8fcfc.png">
+
+## Task 5 - IOC Search Collector
+
+
