@@ -432,4 +432,7 @@ So sánh giữa 2 bản thì thấy phần Bitlocker device encryption có bên 
 <img width="902" alt="image" src="https://user-images.githubusercontent.com/72620926/220171798-db96c7b7-c318-41e5-a53e-c95886cfedbb.png">
 
 ## Task 3 - The Desktop (GUI)
-### Which selection will hide/disable the Search box?
+<img width="930" alt="image" src="https://user-images.githubusercontent.com/72620926/220236924-62a7df36-a1b0-48a4-9c19-0486438c421a.png">
+
+## Task 4 - The file system
+
