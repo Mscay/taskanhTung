@@ -547,3 +547,25 @@ Tra gg thì biết được cridex là malware.
 <img width="896" alt="image" src="https://user-images.githubusercontent.com/72620926/220413235-a9347cd3-1a78-4f7b-9acf-94623baee0ac.png">
 
 ### You are reading a research paper on a new strain of ransomware. You want to run the data collection on your computer based on the patterns provided, such as domains, hashes, IP addresses, filenames, etc. What method would you choose to run a granular data collection against the known indicators?
+> IOC Search Collector (Windows only) - this method collects data that matches with the Indicators of Compromise (IOCs) that you created with the help of IOC Editor. You will choose this method if you want to run the data collection against known IOCs that you have gathered either through threat intelligence (data feed or narrative report), incident response, or malware analysis. You imported them into IOC Editor. We'll look at the IOC Editor a bit further in the next task.
+
+<img width="897" alt="image" src="https://user-images.githubusercontent.com/72620926/220414364-a1453322-dd85-4869-9fe6-40199821dda0.png">
+
+### What script would you run to initiate the data collection process? Please include the file extension. 
+![image](https://user-images.githubusercontent.com/72620926/220416242-f8aa1d65-b5f7-4be4-9fea-9e43f2e73c93.png)
+
+Cả extention sẽ là "RunRedlineAudit.bat"
+
+<img width="897" alt="image" src="https://user-images.githubusercontent.com/72620926/220416474-f193d851-8315-464d-bc85-8f93a03f2fe4.png">
+
+### If you want to collect the data on Disks and Volumes, under which option can you find it? 
+<img width="653" alt="image" src="https://user-images.githubusercontent.com/72620926/220417156-9533bedc-f0b3-4b4f-aadd-d2526a36d4f6.png">
+
+<img width="907" alt="image" src="https://user-images.githubusercontent.com/72620926/220417039-f74214ab-9370-4bdc-82c6-3c035232f94c.png">
+
+### What cache does Windows use to maintain a preference for recently executed code? 
+Cái này tra gg là ra.
+
+<img width="903" alt="image" src="https://user-images.githubusercontent.com/72620926/220418149-4e1808cf-22a3-4b78-9617-883e2b74e098.png">
+
+## Task 3 - The Redline Interface
