@@ -479,3 +479,28 @@ Những thông tin để làm những câu này đều có ở phần lý thuy�
 > VMware - .vmem file
 
 ## Task 3 - Examining Our Patient
+### Running the imageinfo command in Volatility will provide us with a number of profiles we can test with, however, only one will be correct. We can test these profiles using the pslist command, validating our profile selection by the sheer number of returned results. Do this now with the command `volatility -f MEMORY_FILE.raw --profile=PROFILE pslist`. What profile is correct for this memory image?
+Chạy dòng lệnh "vol.py -f cridex.vmem imageinfo" để xem thông tin những profile cần sử dụng.
+
+<img width="851" alt="Screenshot_20230221_013450" src="https://user-images.githubusercontent.com/72620926/220266177-5450b81f-06e4-45d9-a4a4-9eb98de26203.png">
+
+Ở phần suggested profile có 2 cái là WinXPSP2x86 và WinXPSP3x86, thử đáp án thì câu trả lời là: WinXPSP2x86
+
+<img width="919" alt="image" src="https://user-images.githubusercontent.com/72620926/220266445-2de6bbb3-0508-4b1d-8b3d-116ebf2649c2.png">
+
+### Take a look through the processes within our image. What is the process ID for the smss.exe process? If results are scrolling off-screen, try piping your output into less
+Chạy dòng lệnh "vol.py -f cridex.vmem --profile=WinXPSP2x86 pslist" để xem processes.
+
+<img width="750" alt="image" src="https://user-images.githubusercontent.com/72620926/220266600-20f6d6b1-0af7-473f-b338-9eee5b2e3e93.png">
+
+Nhìn ở dòng cuối trong hình thì thấy được process ID (PID) của smss.exe process là 368
+
+<img width="885" alt="image" src="https://user-images.githubusercontent.com/72620926/220266860-138bebdc-886e-4a50-aea7-89396db8c879.png">
+
+### It's fairly common for malware to attempt to hide itself and the process associated with it. That being said, we can view intentionally hidden processes via the command `psxview`. What process has only one 'False' listed?
+Chạy dòng lệnh "vol.py -f cridex.vmem --profile=WinXPSP2x86 psxview" để xem những processes bị cố ý giấu đi.
+
+<img width="940" alt="image" src="https://user-images.githubusercontent.com/72620926/220267050-40bc1d06-1979-4300-a4f2-f5971a79ae09.png">
+
+<img width="891" alt="image" src="https://user-images.githubusercontent.com/72620926/220268056-1be12cd6-48da-4298-864d-7e5b03acb963.png">
+
