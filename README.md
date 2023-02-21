@@ -515,3 +515,18 @@ Note: em lỡ nhập thêm "ds" ngay sau khi submit nên không sửa lại đư
 
 <img width="893" alt="image" src="https://user-images.githubusercontent.com/72620926/220279604-b7b26181-9316-4d7c-8caf-737dce0851a6.png">
 
+### Injected code can be a huge issue and is highly indicative of very very bad things. We can check for this with the command `malfind`. Using the full command `volatility -f MEMORY_FILE.raw --profile=PROFILE malfind -D <Destination Directory>` we can not only find this code, but also dump it to our specified directory. Let's do this now! We'll use this dump later for more analysis. How many files does this generate?
+Tạo 1 thư mục tên là "tmp" sau đó chạy lệnh " vol.py -f cridexmemdump/cridex.vmem --profile=WinXPSP2x86 malfind -D ./tmp". 
+
+Mở thư mục tmp ra thì thấy có 12 items
+
+<img width="888" alt="image" src="https://user-images.githubusercontent.com/72620926/220289299-037dad5a-9daf-41f7-bb10-dcfdcf90828f.png">
+
+### Now that we've seen all of the DLLs running in memory, let's go a step further and pull them out! Do this now with the command `volatility -f MEMORY_FILE.raw --profile=PROFILE --pid=PID dlldump -D <Destination Directory>` where the PID is the process ID of the infected process we identified earlier (questions five and six). How many DLLs does this end up pulling?
+Tạo thư mục "tmp2" sau đó chạy lệnh "vol.py -f cridexmemdump/cridex.vmem --profile=WinXPSP2x86 --pid=584 dlldump -D ./tmp2".
+
+Mở thư mục tmp 2 ra thì có 12 items
+
+<img width="891" alt="image" src="https://user-images.githubusercontent.com/72620926/220289724-a4272e23-07c8-47bf-b159-c8e640a9ac54.png">
+
+## Task 4 - Post Actions
