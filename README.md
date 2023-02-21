@@ -530,3 +530,20 @@ Mở thư mục tmp 2 ra thì có 12 items
 <img width="891" alt="image" src="https://user-images.githubusercontent.com/72620926/220289724-a4272e23-07c8-47bf-b159-c8e640a9ac54.png">
 
 ## Task 4 - Post Actions
+![image](https://user-images.githubusercontent.com/72620926/220412361-74190957-54ec-4735-8658-596e8343f74b.png)
+
+Tra gg thì biết được cridex là malware.
+
+<img width="887" alt="image" src="https://user-images.githubusercontent.com/72620926/220412188-4a2d853d-f5fc-491e-9f3f-b20582fde8bb.png">
+
+# Redline
+## Task 1 - Introduction
+<img width="898" alt="image" src="https://user-images.githubusercontent.com/72620926/220412845-a24183a2-36ef-496e-9b32-d4f3eb5a2561.png">
+
+## Task 2 - Data Collection
+### What data collection method takes the least amount of time?
+> Standard Collector - this method configures the script to gather a minimum amount of data for the analysis. This is going to be our preferred method to collect data in this room. It is also usually the fastest method to collect the data you need. It takes only a few minutes to complete.
+
+<img width="896" alt="image" src="https://user-images.githubusercontent.com/72620926/220413235-a9347cd3-1a78-4f7b-9acf-94623baee0ac.png">
+
+### You are reading a research paper on a new strain of ransomware. You want to run the data collection on your computer based on the patterns provided, such as domains, hashes, IP addresses, filenames, etc. What method would you choose to run a granular data collection against the known indicators?
