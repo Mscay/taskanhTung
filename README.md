@@ -506,3 +506,12 @@ Và thấy rằng chỉ có phần csrss.exe là có duy nhất 1 cái false.
 
 <img width="891" alt="image" src="https://user-images.githubusercontent.com/72620926/220268056-1be12cd6-48da-4298-864d-7e5b03acb963.png">
 
+### In addition to viewing hidden processes via psxview, we can also check this with a greater focus via the command 'ldrmodules'. Three columns will appear here in the middle, InLoad, InInit, InMem. If any of these are false, that module has likely been injected which is a really bad thing. On a normal system the grep statement above should return no output. Which process has all three columns listed as 'False' (other than System)?
+Chạy dòng lệnh "vol.py -f cridex.vmem --profile=WinXPSP2x86 ldrmodules". Ngoài system thì chỉ có csrss.exe là có cả 3 cột đều false.
+
+<img width="941" alt="image" src="https://user-images.githubusercontent.com/72620926/220278988-1babcbe2-e8ce-4eb2-ae7d-074c6036dfcb.png">
+
+Note: em lỡ nhập thêm "ds" ngay sau khi submit nên không sửa lại được nữa, chứ câu trả lời là : "csrss.exe".
+
+<img width="893" alt="image" src="https://user-images.githubusercontent.com/72620926/220279604-b7b26181-9316-4d7c-8caf-737dce0851a6.png">
+
