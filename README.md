@@ -441,3 +441,23 @@ So sánh giữa 2 bản thì thấy phần Bitlocker device encryption có bên 
 <img width="904" alt="image" src="https://user-images.githubusercontent.com/72620926/220241142-114f0343-8187-4657-8267-a3d35bbe56cd.png">
 
 ## Task 6 - User Accounts, Profiles, and Permissions
+Đã được anh Tùng hướng dẫn và không giải thích gì thêm
+
+<img width="897" alt="image" src="https://user-images.githubusercontent.com/72620926/220252228-7abab444-6477-4291-9886-ac7f59ba15a2.png">
+
+## Task 7 - User Account Control
+<img width="904" alt="image" src="https://user-images.githubusercontent.com/72620926/220253106-a025877f-420a-4f92-b247-a76005d997d6.png">
+
+## Task 8 - Settings and the Control Panel
+Không phải cái cuối thì thử cái gần cuối. 
+
+<img width="569" alt="Screenshot_20230221_113926" src="https://user-images.githubusercontent.com/72620926/220254018-28e81227-65b1-4f87-b030-b233bfef35b3.png">
+
+<img width="908" alt="image" src="https://user-images.githubusercontent.com/72620926/220254234-26dd7dd2-147e-4cdb-b6a2-fda62a43cee3.png">
+
+## Task 9 -  Task Manager
+Tra gg "keyboard shortcut task manager" 
+
+<img width="896" alt="image" src="https://user-images.githubusercontent.com/72620926/220254448-8a179aa0-c032-4628-9190-8ae9fa88a8d9.png">
+
+
