@@ -435,4 +435,6 @@ So sánh giữa 2 bản thì thấy phần Bitlocker device encryption có bên 
 <img width="930" alt="image" src="https://user-images.githubusercontent.com/72620926/220236924-62a7df36-a1b0-48a4-9c19-0486438c421a.png">
 
 ## Task 4 - The file system
+<img width="903" alt="image" src="https://user-images.githubusercontent.com/72620926/220239499-dc36b842-0baa-4912-a7b0-c2493858b9c2.png">
 
+## Task 5 - The Windows\System32 Folders
