@@ -569,3 +569,9 @@ Cái này tra gg là ra.
 <img width="903" alt="image" src="https://user-images.githubusercontent.com/72620926/220418149-4e1808cf-22a3-4b78-9617-883e2b74e098.png">
 
 ## Task 3 - The Redline Interface
+<img width="897" alt="image" src="https://user-images.githubusercontent.com/72620926/220433608-36734169-bb93-4e90-8ecb-e109c992b2a3.png">
+
+> System Information: this is where you will see the information about the machine, BIOS (Windows only), operating system, and user information.
+
+## Task 4 - Standard Collector Analysis
+### Provide the Operating System detected for the workstation.
