@@ -502,5 +502,7 @@ Chạy dòng lệnh "vol.py -f cridex.vmem --profile=WinXPSP2x86 psxview" để 
 
 <img width="940" alt="image" src="https://user-images.githubusercontent.com/72620926/220267050-40bc1d06-1979-4300-a4f2-f5971a79ae09.png">
 
+Và thấy rằng chỉ có phần csrss.exe là có duy nhất 1 cái false.
+
 <img width="891" alt="image" src="https://user-images.githubusercontent.com/72620926/220268056-1be12cd6-48da-4298-864d-7e5b03acb963.png">
 
