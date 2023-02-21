@@ -460,4 +460,22 @@ Tra gg "keyboard shortcut task manager"
 
 <img width="896" alt="image" src="https://user-images.githubusercontent.com/72620926/220254448-8a179aa0-c032-4628-9190-8ae9fa88a8d9.png">
 
+# Volatility
+## Task 2 - Obtaining Memory Samples
+<img width="898" alt="image" src="https://user-images.githubusercontent.com/72620926/220256600-c9bc0af5-b7b0-47c0-95a2-f820c49302f7.png">
 
+Những thông tin để làm những câu này đều có ở phần lý thuyết
+
+**What memory format is the most common?**
+
+> The .raw format is one of the most common memory file types you will see in the wild.
+
+**The Window's system we're looking to perform memory forensics on was turned off by mistake. What file contains a compressed memory image?**
+
+> hiberfil.sys, better known as the Windows hibernation file contains a compressed memory image from the previous boot. 
+
+**How about if we wanted to perform memory forensics on a VMware-based virtual machine?**
+
+> VMware - .vmem file
+
+## Task 3 - Examining Our Patient
