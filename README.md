@@ -719,3 +719,69 @@ Vào phần system information và chú ý phần product name
 ### What is the name of the ransomware? 
 <img width="439" alt="image" src="https://user-images.githubusercontent.com/72620926/220570223-e4228b67-fb1b-42f0-b1cb-e538d818c5d0.png">
 
+# Disk Analysis & Autopsy
+## Tasl 1 - Windows 10 Disk Image
+### What is the MD5 hash of the E01 image?
+<img width="466" alt="image" src="https://user-images.githubusercontent.com/72620926/220572679-e79cc37c-c0b1-4081-8a1e-bed619ffac1e.png">
+
+Vào phần data source, sau đó chọn file HASAN2.E01 và chọn file metadata sẽ thấy dòng MD5
+
+<img width="441" alt="image" src="https://user-images.githubusercontent.com/72620926/220573377-9d098fb4-1b48-4123-8848-f98a26375a71.png">
+
+### What is the computer account name?
+<img width="476" alt="image" src="https://user-images.githubusercontent.com/72620926/220574669-fe6d4b2a-02f9-49f7-9c69-e8660de58ecf.png">
+
+Đẩu tiền chọn operating system information, rồi chọn SYSTEM là sẽ thấy tên
+
+<img width="439" alt="image" src="https://user-images.githubusercontent.com/72620926/220574899-a73c7cf9-7d02-4929-aa83-0e9954b1fbf7.png">
+
+### List all the user accounts. (alphabetical order)
+<img width="476" alt="image" src="https://user-images.githubusercontent.com/72620926/220575450-ca3bc3e2-4078-4d43-9e8d-8ac635169d24.png">
+
+Đầu tiên chọn operating system user account, kéo sang bên phải sẽ thấy cột user name, nhập tên theo thứ tự chữ cái là ra đáp án.
+
+<img width="429" alt="image" src="https://user-images.githubusercontent.com/72620926/220577150-1c9967f4-1a55-4572-9d7c-9e57bcd1724b.png">
+
+### Who was the last user to log into the computer?
+<img width="480" alt="image" src="https://user-images.githubusercontent.com/72620926/220577584-dcce9e43-4966-401e-a841-1c8c4e1cf817.png">
+
+Chú ý cột date accessed, người cuối cùng là sivapriya
+
+<img width="432" alt="image" src="https://user-images.githubusercontent.com/72620926/220577831-a91e4632-6e1a-4529-8f14-a8b67259539b.png">
+
+### What was the IP address of the computer?
+Data Sources > HASAN2.E01 > Vol3 > Program Files (x86) > Look@LAN > irunin.ini
+
+<img width="464" alt="image" src="https://user-images.githubusercontent.com/72620926/220580228-d6a4a6bf-569b-426a-8162-0e744186553b.png">
+
+<img width="444" alt="image" src="https://user-images.githubusercontent.com/72620926/220578098-0b8a0d49-602e-4ba1-9333-8aef0ceed1eb.png">
+
+### What was the MAC address of the computer? (XX-XX-XX-XX-XX-XX)
+<img width="434" alt="image" src="https://user-images.githubusercontent.com/72620926/220580279-30c00d2e-2c56-4bff-87d6-3430ce4a0c0a.png">
+
+### What is the name of the network card on this computer?
+<img width="437" alt="image" src="https://user-images.githubusercontent.com/72620926/220581211-6facd8c7-978a-49b3-af65-101dec376149.png">
+
+### What is the name of the network monitoring tool?
+<img width="431" alt="image" src="https://user-images.githubusercontent.com/72620926/220581310-3ebb51ae-7e9e-4a10-a242-1846691de0a2.png">
+
+### A user bookmarked a Google Maps location. What are the coordinates of the location?
+<img width="426" alt="image" src="https://user-images.githubusercontent.com/72620926/220581424-90073bab-ce5f-4b40-b9fd-a5bfbbe089b8.png">
+
+### A user has his full name printed on his desktop wallpaper. What is the user's full name?
+<img width="430" alt="image" src="https://user-images.githubusercontent.com/72620926/220581547-fcd05e7f-1383-4985-bbaf-9f0fa333402c.png">
+
+### A user had a file on her desktop. It had a flag but she changed the flag using PowerShell. What was the first flag?
+<img width="428" alt="image" src="https://user-images.githubusercontent.com/72620926/220581703-731a9b36-6f4c-4f51-a3a9-63d5ae309b5c.png">
+
+### The same user found an exploit to escalate privileges on the computer. What was the message to the device owner?
+<img width="426" alt="image" src="https://user-images.githubusercontent.com/72620926/220581840-17a1aea0-51d8-4105-9368-197e3f40e945.png">
+
+### 2 hack tools focused on passwords were found in the system. What are the names of these tools? (alphabetical order)
+<img width="427" alt="image" src="https://user-images.githubusercontent.com/72620926/220581929-2795a5e1-60bc-4248-b225-592cdf80860b.png">
+
+### There is a YARA file on the computer. Inspect the file. What is the name of the author?
+<img width="434" alt="image" src="https://user-images.githubusercontent.com/72620926/220581998-66c51669-f960-45cf-8031-0f7cd517b8fa.png">
+
+### One of the users wanted to exploit a domain controller with an MS-NRPC based exploit. What is the filename of the archive that you found? (include the spaces in your answer) 
+<img width="425" alt="image" src="https://user-images.githubusercontent.com/72620926/220582101-36f10733-32aa-4feb-bd5b-289a1b5ec977.png">
