@@ -655,3 +655,43 @@ Nhìn cột size in bytes
 
 ## Task 6 - IOC Search Collector Analysis
 ### Provide the path of the file that matched all the artifacts along with the filename.
+<img width="836" alt="image" src="https://user-images.githubusercontent.com/72620926/220561807-10f5e9eb-9f87-44ba-9cc0-c47137579221.png">
+
+> answer: C:\Users\Administrator\AppData\Local\Temp\8eJv8w2id6lqN85dfC.exe
+
+### Provide the path where the file is located without including the filename.
+Như câu trên, chỉ cần bỏ tên file ở cuối
+
+<img width="424" alt="image" src="https://user-images.githubusercontent.com/72620926/220562281-24f705b9-a3d9-4bc8-b64b-52a18307b2e5.png">
+
+### Who is the owner of the file?
+Ở hình phía trên có cột owner
+
+<img width="428" alt="image" src="https://user-images.githubusercontent.com/72620926/220562529-771b9c68-4e3d-4cc6-b758-3e4219fad8c9.png">
+
+### Provide the subsystem for the file.
+nhấn chuột vào detail và sẽ thấy subsystem
+
+<img width="850" alt="image" src="https://user-images.githubusercontent.com/72620926/220562842-ff348564-c973-4c3d-a6c5-9c868356a523.png">
+
+<img width="432" alt="image" src="https://user-images.githubusercontent.com/72620926/220563650-75c3c483-308f-4f64-b9cf-78a81ef6f539.png">
+
+### Provide the Device Path where the file is located
+Ở ảnh phía trên cũng có thể thấy device path
+
+<img width="433" alt="image" src="https://user-images.githubusercontent.com/72620926/220563794-1c2b5656-4af8-4816-bde9-74783a0f9f4f.png">
+
+### Provide the hash (SHA-256) for the file.
+<img width="436" alt="image" src="https://user-images.githubusercontent.com/72620926/220563908-8c6a98d4-0fe1-45f0-ac3a-3a67c7d0350d.png">
+
+Vào windows powershell và nhập lệnh "Get-FileHash"
+
+<img width="562" alt="image" src="https://user-images.githubusercontent.com/72620926/220564261-1ba2575b-b117-4b49-8e0e-cfbc48226c68.png">
+
+### The attacker managed to masquerade the real filename. Can you find it having the hash in your arsenal? 
+Search hash trong VirusTotal:
+
+<img width="94" alt="image" src="https://user-images.githubusercontent.com/72620926/220564960-40af8965-714a-47e3-8fc6-e6e09da48057.png">
+
+<img width="428" alt="image" src="https://user-images.githubusercontent.com/72620926/220565011-2ec96222-e938-43dc-9398-30f40778033d.png">
+
