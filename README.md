@@ -648,7 +648,9 @@ Như ảnh phía trên, chú ý phần owner
 ### What is the file size in bytes? 
 Nhìn cột size in bytes
 
-<img width="897" alt="image" src="https://user-images.githubusercontent.com/72620926/220517291-f185a4f3-4d95-4335-a311-d9e95df0e542.png">
+<img width="907" alt="image" src="https://user-images.githubusercontent.com/72620926/220522224-ce9069f8-2234-4114-af40-721590d7dab7.png">
 
 ### Provide the full path of where the .ioc file was placed after the Redline analysis, include the .ioc filename as well
+<img width="900" alt="image" src="https://user-images.githubusercontent.com/72620926/220522325-d791e150-031c-42b3-a7ae-03e54d0151f9.png">
 
+## Task 6 - IOC Search Collector Analysis
