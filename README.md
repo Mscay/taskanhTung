@@ -654,3 +654,4 @@ Nhìn cột size in bytes
 <img width="900" alt="image" src="https://user-images.githubusercontent.com/72620926/220522325-d791e150-031c-42b3-a7ae-03e54d0151f9.png">
 
 ## Task 6 - IOC Search Collector Analysis
+### Provide the path of the file that matched all the artifacts along with the filename.
