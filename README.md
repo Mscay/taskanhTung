@@ -757,18 +757,28 @@ Data Sources > HASAN2.E01 > Vol3 > Program Files (x86) > Look@LAN > irunin.ini
 <img width="444" alt="image" src="https://user-images.githubusercontent.com/72620926/220578098-0b8a0d49-602e-4ba1-9333-8aef0ceed1eb.png">
 
 ### What was the MAC address of the computer? (XX-XX-XX-XX-XX-XX)
+Vẫn có thể tìm được trong irunin.ini
+
 <img width="434" alt="image" src="https://user-images.githubusercontent.com/72620926/220580279-30c00d2e-2c56-4bff-87d6-3430ce4a0c0a.png">
 
 ### What is the name of the network card on this computer?
+Chọn Operating System Information, chọn software rồi browse path này "ROOT/Microsoft/Windows NT/CurrentVersion/NetworkCards/2"
+
 <img width="437" alt="image" src="https://user-images.githubusercontent.com/72620926/220581211-6facd8c7-978a-49b3-af65-101dec376149.png">
 
 ### What is the name of the network monitoring tool?
+Vào phần nstalled Programs sau đó chú ý phần Program name
+
 <img width="431" alt="image" src="https://user-images.githubusercontent.com/72620926/220581310-3ebb51ae-7e9e-4a10-a242-1846691de0a2.png">
 
 ### A user bookmarked a Google Maps location. What are the coordinates of the location?
+Vào phần web bookmarks, chú ý phần title
+
 <img width="426" alt="image" src="https://user-images.githubusercontent.com/72620926/220581424-90073bab-ce5f-4b40-b9fd-a5bfbbe089b8.png">
 
 ### A user has his full name printed on his desktop wallpaper. What is the user's full name?
+Vào phần Images/Video, chọn downloads, chọn bức ảnh, chuột phải -> export
+
 <img width="430" alt="image" src="https://user-images.githubusercontent.com/72620926/220581547-fcd05e7f-1383-4985-bbaf-9f0fa333402c.png">
 
 ### A user had a file on her desktop. It had a flag but she changed the flag using PowerShell. What was the first flag?
