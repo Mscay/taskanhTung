@@ -640,3 +640,15 @@ Thấy phần owner đều giống nhau nên thử từng file một
 
 <img width="899" alt="image" src="https://user-images.githubusercontent.com/72620926/220516617-bc973b4f-d12a-41db-8e1d-7ad191b9c0be.png">
 
+### Who is the owner of the file?
+Như ảnh phía trên, chú ý phần owner
+
+<img width="897" alt="image" src="https://user-images.githubusercontent.com/72620926/220517132-ef4db93f-fb97-4183-a45b-24d671e6ce50.png">
+
+### What is the file size in bytes? 
+Nhìn cột size in bytes
+
+<img width="897" alt="image" src="https://user-images.githubusercontent.com/72620926/220517291-f185a4f3-4d95-4335-a311-d9e95df0e542.png">
+
+### Provide the full path of where the .ioc file was placed after the Redline analysis, include the .ioc filename as well
+
