@@ -695,3 +695,27 @@ Search hash trong VirusTotal:
 
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/72620926/220565011-2ec96222-e938-43dc-9398-30f40778033d.png">
 
+## Task 7 - Endpoint Investigation
+### Can you identify the product name of the machine?
+Vào phần system information và chú ý phần product name
+
+<img width="439" alt="image" src="https://user-images.githubusercontent.com/72620926/220566862-9dd435e7-0934-481b-9d01-03f22addc3ea.png">
+
+### Can you find the name of the note left on the Desktop for the "Charles"?
+<img width="442" alt="image" src="https://user-images.githubusercontent.com/72620926/220569493-19033a52-f027-4612-a629-3956ee549f2c.png">
+
+### Find the Windows Defender service; what is the name of its service DLL? 
+<img width="429" alt="image" src="https://user-images.githubusercontent.com/72620926/220569625-22971227-ac02-4848-8599-01622bbf00f8.png">
+
+### The user manually downloaded a zip file from the web. Can you find the filename? 
+<img width="428" alt="image" src="https://user-images.githubusercontent.com/72620926/220569752-07cb0960-4fe4-456a-83c8-ec6baacdf898.png">
+
+### Provide the filename of the malicious executable that got dropped on the user's Desktop.
+<img width="427" alt="image" src="https://user-images.githubusercontent.com/72620926/220569883-4742c49b-0ae3-4565-994c-8cbf5704046b.png">
+
+### Provide the MD5 hash for the dropped malicious executable.
+<img width="428" alt="image" src="https://user-images.githubusercontent.com/72620926/220570187-ca565277-5f31-4bf6-ab76-e55677b0a79b.png">
+
+### What is the name of the ransomware? 
+<img width="439" alt="image" src="https://user-images.githubusercontent.com/72620926/220570223-e4228b67-fb1b-42f0-b1cb-e538d818c5d0.png">
+
