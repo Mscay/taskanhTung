@@ -628,5 +628,15 @@ Mở file flag.txt đó ra thì nhận được "THM{600D-C@7cH-My-FR1EnD}" và 
 <img width="889" alt="image" src="https://user-images.githubusercontent.com/72620926/220439870-b59a1733-b1ce-48be-afe4-989b2ee8fcfc.png">
 
 ## Task 5 - IOC Search Collector
+### What is the actual filename of the Keylogger? 
+<img width="278" alt="image" src="https://user-images.githubusercontent.com/72620926/220515835-1c30d3cd-711b-4030-b882-66b006c05bce.png">
 
+<img width="894" alt="image" src="https://user-images.githubusercontent.com/72620926/220515891-5876588c-f1aa-4f41-a176-eaa3a6db6588.png">
+
+### What filename is the file masquerading as? 
+![image](https://user-images.githubusercontent.com/72620926/220516460-f59aafd9-f966-44f7-8263-1d500e426031.png)
+
+Thấy phần owner đều giống nhau nên thử từng file một
+
+<img width="899" alt="image" src="https://user-images.githubusercontent.com/72620926/220516617-bc973b4f-d12a-41db-8e1d-7ad191b9c0be.png">
 
