@@ -15,12 +15,14 @@
 
 <img width="856" alt="Screenshot_20230223_113710" src="https://user-images.githubusercontent.com/72620926/220983823-ceb4ae8a-6561-4492-a178-487753a23bd5.png">
 
+> flag: picoCTF{96fac089316e094d41ea046900197662}
 # Glory of the Garden
 > Tải file ảnh về "garden.jpg". Dùng "strings garden.jpg" sẽ thấy flag ở cuối.
 <img width="403" alt="image" src="https://user-images.githubusercontent.com/72620926/220985318-091e0e63-f176-47e4-92be-b9da3e918689.png">
 
+> flag: picoCTF{more_than_m33ts_the_3y33dd2eEF5}
 # Packets Primer
 > Tải file về sau đó mở bằng wireshark. xem từng tập tin và tìm được flag ở góc dưới bên phải
 <img width="947" alt="image" src="https://user-images.githubusercontent.com/72620926/221141316-431f8119-7e3a-4d9c-88aa-ad1c2709eeb5.png">
 
-> picoCTF{p4ck37_5h4rk_ceccaa7f}
+> flag: picoCTF{p4ck37_5h4rk_ceccaa7f}
