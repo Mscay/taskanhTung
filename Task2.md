@@ -27,3 +27,8 @@
 
 > flag: picoCTF{p4ck37_5h4rk_ceccaa7f}
 # Wireshark doo dooo do doo...
+> Tải file về sau đó mở bằng wireshark. Analyze -> follow -> TCP stream.
+<img width="735" alt="image" src="https://user-images.githubusercontent.com/72620926/221165792-b168d397-fef8-4250-aece-cfffcb06cd0e.png">
+
+> Tìm được dòng: Gur synt vf cvpbPGS{c33xno00_1_f33_h_qrnqorrs} trông nguy hiểm phết nên đi giải mã. (ROT-13)
+> Sau khi giải mã: The flag is picoCTF{p33kab00_1_s33_u_deadbeef}
