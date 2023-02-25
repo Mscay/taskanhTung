@@ -62,8 +62,11 @@ Giờ sẽ đi check mấy cái ảnh, dùng câu lệnh này cho từng bức �
 >  steghide info picture3.bmp
 <img width="391" alt="image" src="https://user-images.githubusercontent.com/72620926/221360910-630314fd-5238-4dc1-a6ec-62082a6dd4af.png">
 
->  steghide extract -sf picture3.bmp
+>  steghide extract -sf picture3.bmp , nội dung từ tệp flag.txt gốc sẽ được trích xuất từ tệp picture3.bmp và được lưu trong thư mục hiện tại.
 <img width="437" alt="image" src="https://user-images.githubusercontent.com/72620926/221361297-667de410-6a45-45cf-afdb-ebb84d122c4f.png">
 
 > Dùng strings để đọc dữ liệu trong file flag.txt và nhận được flag.
 <img width="345" alt="image" src="https://user-images.githubusercontent.com/72620926/221361365-8934fec4-f1ac-497d-b76a-fe0c3727bc7e.png">
+
+> flag: picoCTF{h1dd3n_1n_pLa1n_51GHT_18375919}
+# What Lies Within
