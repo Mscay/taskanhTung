@@ -113,8 +113,35 @@ computer management > local users and groups > user, nhấn xem từng user mộ
 > answer: Jenny, guest
 
 ***Whats the name of the scheduled task that is malicous.***
+Vẫn trong computer management, chọn task scheduler > task scheduler library, task clean file system có lẽ là task độc trong số các task đang có.
+> answer: clean file system
 
+***What file was the task trying to run daily?***
 
+Trong task "clean file system" được chạy mỗi ngày, chọn vào phần action, chú ý phần details, có file "nc.ps1"
+
+<img width="295" alt="image" src="https://user-images.githubusercontent.com/72620926/221371413-d58d6b3e-6faa-4442-a1dc-12a21233433f.png">
+
+> answer: nc.ps1
+
+***What port did this file listen locally for?***
+
+Câu trả lời có trong phần ảnh của câu trên (trong phần details của action).
+> answer: 1348
+
+***When did Jenny last logon?***
+
+Chạy lệnh "net user Jenny" sẽ thấy câu trả lời.
+> answer: never
+
+***At what date did the compromise take place?***
+
+<img width="348" alt="image" src="https://user-images.githubusercontent.com/72620926/221371587-61ef1efa-fcbe-4562-aadf-30726811fb5f.png">
+
+Thấy rằng mật khẩu đã được thay đổi vào ngày 03/02/2019 4:52:25 PM
+> answer: 03/02/2019
+
+***At what time did Windows first assign special privileges to a new logon?***
 
 
 
