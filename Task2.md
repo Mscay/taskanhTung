@@ -70,3 +70,9 @@ Giờ sẽ đi check mấy cái ảnh, dùng câu lệnh này cho từng bức �
 
 > flag: picoCTF{h1dd3n_1n_pLa1n_51GHT_18375919}
 # What Lies Within
+Dựa theo gợi ý là "There is data encoded somewhere... there might be an online decoder." nên dùng Steganography Online để decode ảnh và đây là kết quả:
+
+<img width="882" alt="image" src="https://user-images.githubusercontent.com/72620926/221364733-5ca8f9eb-eec0-46a1-8e2d-5bd90ef172ec.png">
+
+> flag: picoCTF{h1d1ng_1n_th3_b1t5}
+# 
