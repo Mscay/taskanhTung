@@ -75,4 +75,8 @@ Dựa theo gợi ý là "There is data encoded somewhere... there might be an on
 <img width="882" alt="image" src="https://user-images.githubusercontent.com/72620926/221364733-5ca8f9eb-eec0-46a1-8e2d-5bd90ef172ec.png">
 
 > flag: picoCTF{h1d1ng_1n_th3_b1t5}
-# 
+# Investigating Windows
+** Whats the version and year of the windows machine? **
+Mở windows powershell và chạy lệnh "systeminfo" để xem thông tin máy. Chú ý dòng OS name.
+> answer: windows server 2016
+
