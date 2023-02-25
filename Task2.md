@@ -34,5 +34,8 @@
 > Sau khi giải mã: The flag is picoCTF{p33kab00_1_s33_u_deadbeef}
 # Wireshark twoo twooo two twoo...
 > Tải file về và mở bằng wireshark
-> Thấy có 1 ip destination 18.217.1.57
-> 
+> Thấy có 1 ip destination 18.217.1.57, lọc ip "ip.dst == 18.217.1.57", sau đó thấy có protocol dns là có trao đổi flag, nên lọc thêm dns "ip.dst == 18.217.1.57 && dns".
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/72620926/221345735-f474e090-eff3-45df-83b4-8e26099d3957.png">
+
+> Chú ý phần info sẽ thấy có dãy kí tự đặc biệt sau chữ A, ghép lại sẽ ra 1 chuỗi được mã hóa base64, giải mã và ra được flag
+> flag: picoCTF{dns_3xf1l_ftw_deadbeef}
