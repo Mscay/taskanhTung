@@ -136,9 +136,10 @@ Chạy lệnh "net user Jenny" sẽ thấy câu trả lời.
 
 ***At what date did the compromise take place?***
 
-<img width="348" alt="image" src="https://user-images.githubusercontent.com/72620926/221371587-61ef1efa-fcbe-4562-aadf-30726811fb5f.png">
+Tìm kiếm trong ổ C và thấy 1 thư mục khả nghi "TMP" và nó được tạo vào ngày 03/02/2019
 
-Thấy rằng mật khẩu đã được thay đổi vào ngày 03/02/2019 4:52:25 PM
+<img width="473" alt="image" src="https://user-images.githubusercontent.com/72620926/221372994-ac839cf3-1bcb-45dc-85bf-7569ffc528b2.png">
+
 > answer: 03/02/2019
 
 ***At what time did Windows first assign special privileges to a new logon?***
