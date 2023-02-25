@@ -80,3 +80,4 @@ Dựa theo gợi ý là "There is data encoded somewhere... there might be an on
 Mở windows powershell và chạy lệnh "systeminfo" để xem thông tin máy. Chú ý dòng OS name.
 > answer: windows server 2016
 
+
