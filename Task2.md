@@ -76,8 +76,46 @@ Dựa theo gợi ý là "There is data encoded somewhere... there might be an on
 
 > flag: picoCTF{h1d1ng_1n_th3_b1t5}
 # Investigating Windows
-** Whats the version and year of the windows machine? **
+***Whats the version and year of the windows machine?***
+
 Mở windows powershell và chạy lệnh "systeminfo" để xem thông tin máy. Chú ý dòng OS name.
+
 > answer: windows server 2016
+
+***Which user logged in last?***
+
+Mở windows powershell và chạy lệnh "net user USER_NAME" đẻ biết thời gian đang nhập cuối cùng của từng user.
+
+<img width="374" alt="Screenshot_20230225_111132" src="https://user-images.githubusercontent.com/72620926/221370341-c7cd2dd2-b406-4240-9eb6-2c90f8d7271e.png">
+
+Người đăng nhập cuối cùng là mình (administrator)
+> answer: Administrator.
+
+***When did John log onto the system last?***
+
+<img width="244" alt="Screenshot_20230225_111343" src="https://user-images.githubusercontent.com/72620926/221370436-e07bd77c-e91e-4b8d-aaae-e967f0d361ff.png">
+
+Chú ý dòng last logon.
+> answer: 03/02/2019 5:48:32 PM
+
+***What IP does the system connect to when it first starts?***
+
+> answer: 10.34.2.3
+
+***What two accounts had administrative privileges (other than the Administrator user)?***
+
+computer management > local users and groups > user, nhấn xem từng user một xem ai có quyền admin ngoài Administrator.
+
+<img width="440" alt="Screenshot_20230226_120801" src="https://user-images.githubusercontent.com/72620926/221370611-ae530322-73ce-4581-82c1-3b9c6031f88a.png">
+
+<img width="421" alt="Screenshot_20230226_120815" src="https://user-images.githubusercontent.com/72620926/221370616-7af87332-5c7f-47e5-9b6d-d7e5cc74d509.png">
+
+> answer: Jenny, guest
+
+***Whats the name of the scheduled task that is malicous.***
+
+
+
+
 
 
