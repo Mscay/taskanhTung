@@ -32,3 +32,7 @@
 
 > Tìm được dòng: Gur synt vf cvpbPGS{c33xno00_1_f33_h_qrnqorrs} trông nguy hiểm phết nên đi giải mã. (ROT-13)
 > Sau khi giải mã: The flag is picoCTF{p33kab00_1_s33_u_deadbeef}
+# Wireshark twoo twooo two twoo...
+> Tải file về và mở bằng wireshark
+> Thấy có 1 ip destination 18.217.1.57
+> 
