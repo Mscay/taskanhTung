@@ -272,3 +272,12 @@ Từ file vsftpd.log, thấy được username dùng để đăng nhập là ano
 
 ***What service and username were used to gain shell access to the server? (service, username)***
 
+Dùng lệnh "cat auth.log| grep -i accepted -A 2":
+
+<img width="723" alt="image" src="https://user-images.githubusercontent.com/72620926/221396521-b8a05ca8-3611-4cbb-8082-e33c117315b7.png">
+
+Thấy service là ssh, username là www-data
+
+> answer: ssh, www-data
+
+
