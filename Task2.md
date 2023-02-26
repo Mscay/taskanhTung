@@ -245,3 +245,30 @@ Dựa theo gợi ý "Where can customers usually comment on a shopping website?"
 
 ***Was their brute-force attack successful? If so, what is the timestamp of the successful login? (Yay/Nay, 11/Apr/2021:09:xx:xx +0000)***
 
+Dùng câu lệnh "cat access.log | grep -i hydra | grep 200" vì 200 là code successful
+
+<img width="842" alt="image" src="https://user-images.githubusercontent.com/72620926/221395837-e3ea5d64-dbe7-4bef-b92e-cfd9e3c95797.png">
+
+> answer: yay, 11/Apr/2021:09:16:31 +0000
+
+***What user information was the attacker able to retrieve from the endpoint vulnerable to SQL injection?***
+> answer: email, password
+
+***What files did they try to download from the vulnerable endpoint? (endpoint from the previous task, question #5)***
+
+Dùng lệnh "cat access.log | cut -d '"' -f 2 | uniq":
+
+<img width="345" alt="image" src="https://user-images.githubusercontent.com/72620926/221396086-a469a6ee-6970-4e05-ba80-d2b5029100c5.png">
+
+> answer: coupons_2013.md.bak, www-data.bak
+
+***What service and account name were used to retrieve files from the previous question? (service, username)***
+
+Từ file vsftpd.log, thấy được username dùng để đăng nhập là anonymous.
+
+<img width="356" alt="image" src="https://user-images.githubusercontent.com/72620926/221396396-168193c0-97b9-42d0-a30c-0f2888c5fad2.png">
+
+> answer: ftp, anonymous
+
+***What service and username were used to gain shell access to the server? (service, username)***
+
