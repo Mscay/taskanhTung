@@ -196,7 +196,7 @@ Thử từng trang một
 > answer: google.com
 
 # Juicy Details
-**Task2**
+**Task 2 Reconnaissance**
 
 ***What tools did the attacker use? (Order by the occurrence in the log)***
 
@@ -226,3 +226,22 @@ Trong phần search enpoint luôn thấy dòng "q=....", vậy tham số ở đ�
 > answer: q
 
 ***What endpoint did the attacker try to use to retrieve files? (Include the /)***
+
+<img width="312" alt="Screenshot_20230226_122229" src="https://user-images.githubusercontent.com/72620926/221394377-1a31286e-5c7d-4046-9d12-46a1f1eef282.png">
+
+> answer: /ftp
+
+**Task 3 - Stolen data**
+
+***What section of the website did the attacker use to scrape user email addresses?***
+
+Dùng câu lệnh "cat access.log | cut -d '"' -f 2 | cut -d "?" -f 1 | sort | uniq"
+
+Dựa theo gợi ý "Where can customers usually comment on a shopping website?"
+
+<img width="320" alt="Screenshot_20230226_124424" src="https://user-images.githubusercontent.com/72620926/221394483-0369937a-0e35-472d-bef9-c80bc34b1227.png">
+
+> answer: product reviews
+
+***Was their brute-force attack successful? If so, what is the timestamp of the successful login? (Yay/Nay, 11/Apr/2021:09:xx:xx +0000)***
+
