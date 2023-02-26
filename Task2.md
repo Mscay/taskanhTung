@@ -100,6 +100,10 @@ Chú ý dòng last logon.
 
 ***What IP does the system connect to when it first starts?***
 
+Khi chạy machine sẽ có 1 cửa sổ nổi lên và cho biết ip:
+
+<img width="215" alt="image" src="https://user-images.githubusercontent.com/72620926/221389518-a6525979-cbeb-46b2-ad88-ec7d19b5536a.png">
+
 > answer: 10.34.2.3
 
 ***What two accounts had administrative privileges (other than the Administrator user)?***
@@ -144,6 +148,15 @@ Tìm kiếm trong ổ C và thấy 1 thư mục khả nghi "TMP" và nó đượ
 
 ***At what time did Windows first assign special privileges to a new logon?***
 
+<img width="471" alt="image" src="https://user-images.githubusercontent.com/72620926/221389913-376f62c2-ec68-4977-ab00-9ef9f5e94b41.png">
+
+Vào Event viewer > windows logs > security, kéo xuống cuối cùng và dựa vào hint là 00/00/0000 0:00:49 PM, tìm những event có thời gian đuôi như vậy và thử:
+
+<img width="471" alt="Screenshot_20230226_100217" src="https://user-images.githubusercontent.com/72620926/221390006-33521144-5417-4760-a66c-c08a0b0c4836.png">
+
+> answer: 03/02/2019 04:04:49 PM
+
+***What tool was used to get Windows passwords?***
 
 
 
