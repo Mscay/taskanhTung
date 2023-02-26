@@ -221,3 +221,8 @@ Tương tự như câu trên, dùng lệnh "cat access.log | grep sqlmap"
 > answer: /rest/products/search
 
 ***What parameter was used for the SQL injection?***
+
+Trong phần search enpoint luôn thấy dòng "q=....", vậy tham số ở đây là q
+> answer: q
+
+***What endpoint did the attacker try to use to retrieve files? (Include the /)***
