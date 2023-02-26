@@ -280,4 +280,14 @@ Thấy service là ssh, username là www-data
 
 > answer: ssh, www-data
 
+# Carnage
+***What was the date and time for the first HTTP connection to the malicious IP?***
+
+dùng filter http và câu trả lời là thời gian ở dòng đầu tiên
+
+<img width="476" alt="image" src="https://user-images.githubusercontent.com/72620926/221397820-51bd1e1b-dd64-4c34-b24c-3379b922f3af.png">
+
+> answer: 2021-09-24 16:44:38
+
+***What is the name of the zip file that was downloaded?***
 
