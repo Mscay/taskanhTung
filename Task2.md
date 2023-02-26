@@ -334,4 +334,28 @@ Chú ý dòng server
 
 ***What are the two IP addresses of the Cobalt Strike servers? Use VirusTotal (the Community tab) to confirm if IPs are identified as Cobalt Strike C2 servers. (answer format: enter the IP addresses in sequential order)***
 
-Statistics > conversation. Thấy có nhiều port 8080 nên check nó trước với Virustotal
+Statistics > conversation. Thấy có nhiều port 8080 và 80 nên check với Virustotal.
+> answer: 185.106.96.158, 185.125.204.174
+
+***What is the Host header for the first Cobalt Strike IP address from the previous question?***
+
+Dùng filter "ip.addr == 185.106.96.158" > follow TCP:
+
+<img width="266" alt="image" src="https://user-images.githubusercontent.com/72620926/221400405-1d36ba25-54a2-4db3-939b-ec5f908bc536.png">
+
+> answer: ocsp.verisign.com
+
+***What is the domain name for the first IP address of the Cobalt Strike server? You may use VirusTotal to confirm if it's the Cobalt Strike server (check the Community tab).***
+
+Tra "185.106.96.158" trên virustotal, vào phần community:
+
+<img width="517" alt="image" src="https://user-images.githubusercontent.com/72620926/221400504-a4d86229-c51a-42ef-8153-3dac4bbdd2f8.png">
+
+> answer: survmeter.live
+
+***What is the domain name of the second Cobalt Strike server IP?  You may use VirusTotal to confirm if it's the Cobalt Strike server (check the Community tab).***
+> answer: securitybusinpuff.com
+
+***What is the domain name of the post-infection traffic?***
+
+Dùng filter "http.request.method in {POST}"
