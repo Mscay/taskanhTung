@@ -172,5 +172,21 @@ local disk(C) > Windows > system32 > drivers > etc > hosts:
 
 ***What was the extension name of the shell uploaded via the servers website?***
 
+local disk(C) > inetpub (1 thư mục chứa nội dung trang web và các ứng dụng web) > wwwroot:
+
+<img width="480" alt="image" src="https://user-images.githubusercontent.com/72620926/221391442-a2a61bb8-77a6-45ad-9b6a-490dff8a72ce.png">
+
+> answer: .jsp
+
+***What was the last port the attacker opened?***
+
+Với lời gợi ý là firewall nên mở firewall lên và vào phần inbound rules, kéo thanh ngang sang cột port, cái trên cùng là cái cuối cùng.
+
+<img width="463" alt="image" src="https://user-images.githubusercontent.com/72620926/221391537-bf1efa7e-15ba-4bb0-86c4-5c20aeffd154.png">
+
+>answer: 1337
+
+***Check for DNS poisoning, what site was targeted?***
+
 
 
