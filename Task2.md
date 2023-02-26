@@ -306,3 +306,22 @@ Chuột  phải > follow > TCP stream:
 > answer: attirenepal.com
 
 ***Without downloading the file, what is the name of the file in the zip file?***
+
+<img width="368" alt="image" src="https://user-images.githubusercontent.com/72620926/221398247-95d05d7a-46dd-420c-a319-d2488ef7dcd2.png">
+
+> answer: chart-1530076591.xls
+
+***What is the name of the webserver of the malicious IP from which the zip file was downloaded?***
+
+<img width="418" alt="image" src="https://user-images.githubusercontent.com/72620926/221398320-56f74f3b-7118-412f-b572-09a68b8ee874.png">
+
+Chú ý dòng server
+> answer: LiteSpeed
+
+***What is the version of the webserver from the previous question?***
+
+<img width="245" alt="image" src="https://user-images.githubusercontent.com/72620926/221398420-8ea01ad5-f0a5-4649-8b1f-2562d325ba50.png">
+
+> answer: PHP/7.2.34
+
+***Malicious files were downloaded to the victim host from multiple domains. What were the three domains involved with this activity?***
