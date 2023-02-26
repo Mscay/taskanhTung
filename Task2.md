@@ -188,5 +188,9 @@ Với lời gợi ý là firewall nên mở firewall lên và vào phần inboun
 
 ***Check for DNS poisoning, what site was targeted?***
 
+local disk(C) > Windows > system32 > drivers > etc > hosts:
 
+<img width="473" alt="image" src="https://user-images.githubusercontent.com/72620926/221391659-a5d949dc-3b04-4cc2-b220-25922ecaf0ff.png">
 
+Thử từng trang một
+> answer: google.com
