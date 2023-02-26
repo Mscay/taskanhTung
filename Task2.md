@@ -291,3 +291,18 @@ dùng filter http và câu trả lời là thời gian ở dòng đầu tiên
 
 ***What is the name of the zip file that was downloaded?***
 
+Vẫn ở dòng đó, kéo thanh ngang qua cột info
+
+<img width="473" alt="image" src="https://user-images.githubusercontent.com/72620926/221397934-12c9c5aa-139d-4edc-b739-1278cacb9332.png">
+
+> answer: documents.zip
+
+***What was the domain hosting the malicious zip file?***
+
+Chuột  phải > follow > TCP stream: 
+
+<img width="466" alt="image" src="https://user-images.githubusercontent.com/72620926/221398003-46b9b586-6366-4f5e-acdc-5387b501e3bf.png">
+
+> answer: attirenepal.com
+
+***Without downloading the file, what is the name of the file in the zip file?***
