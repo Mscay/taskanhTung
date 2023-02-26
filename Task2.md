@@ -194,3 +194,17 @@ local disk(C) > Windows > system32 > drivers > etc > hosts:
 
 Thử từng trang một
 > answer: google.com
+
+# Juicy Details
+**Task2**
+
+***What tools did the attacker use? (Order by the occurrence in the log)***
+
+Dùng câu lệnh "cat access.log | cut -d '"' -f 6 | uniq" để....
+
+<img width="571" alt="image" src="https://user-images.githubusercontent.com/72620926/221392802-de08bb52-92c7-4997-80c5-cefee57e1d56.png">
+
+> answer: nmap, hydra, sqlmap, curl,  feroxbuster
+
+***What endpoint was vulnerable to a brute-force attack?***
+
