@@ -158,5 +158,19 @@ Vào Event viewer > windows logs > security, kéo xuống cuối cùng và dựa
 
 ***What tool was used to get Windows passwords?***
 
+Trong TMP có file mim_out, trong file mim-out có nhắc đến mimikatz, tra gg thêm thì biết được Mimikatz thể được sử dụng để ăn cắp thông tin xác thực và tạo ra đặc quyền bất hợp pháp
+
+> answer: Mimikatz
+
+***What was the attackers external control and command servers IP?***
+
+local disk(C) > Windows > system32 > drivers > etc > hosts:
+
+<img width="470" alt="Screenshot_20230226_103144" src="https://user-images.githubusercontent.com/72620926/221390974-c6e069d7-5945-4c5e-8280-5d2f966add7d.png">
+
+> answer: 76.32.97.132
+
+***What was the extension name of the shell uploaded via the servers website?***
+
 
 
