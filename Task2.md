@@ -357,5 +357,21 @@ Tra "185.106.96.158" trên virustotal, vào phần community:
 > answer: securitybusinpuff.com
 
 ***What is the domain name of the post-infection traffic?***
+> answer: maldivehost.net
 
-Dùng filter "http.request.method in {POST}"
+***What are the first eleven characters that the victim host sends out to the malicious domain involved in the post-infection traffic? ***
+
+<img width="320" alt="image" src="https://user-images.githubusercontent.com/72620926/221401038-591f83c8-f511-4038-971f-8c760c7eb93f.png">
+
+> answer: zLIisQRWZi9
+
+***What was the length for the first packet sent out to the C2 server?***
+> answer: 281
+
+***What was the Server header for the malicious domain from the previous question?***
+
+<img width="417" alt="image" src="https://user-images.githubusercontent.com/72620926/221401165-a66a9c32-cbb8-4518-9a30-c0e48114aba6.png">
+
+> answer: Apache/2.4.49 (cPanel) OpenSSL/1.1.1lmod_bwlimited/1.4
+
+***The malware used an API to check for the IP address of the victim’s machine. What was the date and time when the DNS query for the IP check domain occurred? (answer format: yyyy-mm-dd hh:mm:ss UTC)***
