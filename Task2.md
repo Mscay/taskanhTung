@@ -208,3 +208,16 @@ Dùng câu lệnh "cat access.log | cut -d '"' -f 6 | uniq" để....
 
 ***What endpoint was vulnerable to a brute-force attack?***
 
+Đầu tiên xem các công cụ dùng trong brute-force attach, tìm được Hydra. Dùng lệnh "cat access.log | grep Hydra" để tìm những dòng có Hydra:
+
+<img width="850" alt="image" src="https://user-images.githubusercontent.com/72620926/221393114-8e6bab4d-86b7-4922-bc46-32f10e50309b.png">
+
+Thấy endpoint là : /rest/user/login
+> answer: /rest/user/login
+
+***What endpoint was vulnerable to SQL injection?***
+
+Tương tự như câu trên, dùng lệnh "cat access.log | grep sqlmap"
+> answer: /rest/products/search
+
+***What parameter was used for the SQL injection?***
