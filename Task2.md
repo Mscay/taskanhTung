@@ -325,3 +325,13 @@ Chú ý dòng server
 > answer: PHP/7.2.34
 
 ***Malicious files were downloaded to the victim host from multiple domains. What were the three domains involved with this activity?***
+> answer: finejewels.com.au, thietbiagt.com,new.americold.com
+
+***Which certificate authority issued the SSL certificate to the first domain from the previous question?***
+<img width="404" alt="image" src="https://user-images.githubusercontent.com/72620926/221399871-bb2ec8a8-1d77-4e9f-9ea6-88749934924a.png">
+
+> answer: GoDaddy
+
+***What are the two IP addresses of the Cobalt Strike servers? Use VirusTotal (the Community tab) to confirm if IPs are identified as Cobalt Strike C2 servers. (answer format: enter the IP addresses in sequential order)***
+
+Statistics > conversation. Thấy có nhiều port 8080 nên check nó trước với Virustotal
