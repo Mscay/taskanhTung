@@ -375,3 +375,22 @@ Tra "185.106.96.158" trên virustotal, vào phần community:
 > answer: Apache/2.4.49 (cPanel) OpenSSL/1.1.1lmod_bwlimited/1.4
 
 ***The malware used an API to check for the IP address of the victim’s machine. What was the date and time when the DNS query for the IP check domain occurred? (answer format: yyyy-mm-dd hh:mm:ss UTC)***
+
+Filter "dns contains api"
+
+<img width="477" alt="image" src="https://user-images.githubusercontent.com/72620926/221401384-9d631da5-0f63-44c2-ba9e-6f7e8b355521.png">
+
+> answer: 2021-09-24 17:00:04
+
+***What was the domain in the DNS query from the previous question?***
+> answer: api.ipify.org
+
+***Looks like there was some malicious spam (malspam) activity going on. What was the first MAIL FROM address observed in the traffic?***
+
+filter: "smtp contains "MAIL FROM"
+
+<img width="477" alt="image" src="https://user-images.githubusercontent.com/72620926/221401564-db2a623c-d450-4ec6-a8e5-2a2648f06df1.png">
+
+> answer: farshin@mailfa.com
+
+***How many packets were observed for the SMTP traffic?***
