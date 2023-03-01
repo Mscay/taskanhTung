@@ -13,4 +13,10 @@ Dùng lệnh "git log" để xem commit logs
 
 <img width="825" alt="image" src="https://user-images.githubusercontent.com/72620926/222042128-4dc9a59c-11a4-4e70-b1b6-67a7907442cf.png">
 
-Để ý thấy ở commit 47241a47f62ada864ec74bd6dedc4d33f4374699 có nói rằng "Thanks to contributors, I removed the unique token as it was a security risk. Thanks for reporting responsibly!", mà ở file config.json
+Để ý thấy ở commit 47241a47f62ada864ec74bd6dedc4d33f4374699 có nói rằng "Thanks to contributors, I removed the unique token as it was a security risk. Thanks for reporting responsibly!", mà ở file config.json có nhắc đến, nên dùng lệnh "git show 47241a47f62ada864ec74bd6dedc4d33f4374699" để xem token.
+
+<img width="818" alt="image" src="https://user-images.githubusercontent.com/72620926/222043560-a568b707-eec6-4f58-b76f-445a0aece0dd.png">
+
+giải mã token với base64 và ra được flag.
+> flag: HTB{v3rsi0n_c0ntr0l_am_I_right?}
+
