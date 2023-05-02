@@ -402,3 +402,20 @@ Statistics > Protocol Hierarchy > SMTP
 > answer: 1439
 
 # Squid Game
+## Attacker 4
+### Provide the first decoded string found in this maldoc
+> oledump.py attacker4.doc 
+
+thấy có macro ở cái thứ 7 nên tìm code mã hóa ở đó
+
+> oledump.py -s 7 -v attacker4.doc
+
+<img width="476" alt="image" src="https://user-images.githubusercontent.com/72620926/235731383-ce8442f5-fb46-4d6a-baf5-6123305e5c2a.png">
+
+<img width="473" alt="image" src="https://user-images.githubusercontent.com/72620926/235731794-5a8b8eef-409f-49ff-aa75-f062216b11de.png">
+
+Đây là phần code đầu tiên tìm được, vào cyberchef và dùng from HEX và XOR với key là phần Hextostring sau dấu phẩy
+
+<img width="476" alt="image" src="https://user-images.githubusercontent.com/72620926/235732524-61572df3-942a-49eb-86f0-14e3ac61a2e3.png">
+
+### Provide the name of the binary being dropped
