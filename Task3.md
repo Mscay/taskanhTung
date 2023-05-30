@@ -24,3 +24,9 @@ giải mã token với base64 và ra được flag.
 Lấy mã Hash của file emo.doc để search trên virustotal
 
 <img width="400" alt="image" src="https://github.com/Mscay/taskanhTung/assets/72620926/f2c51d1d-f9f6-4871-94e8-9fec3500d89f">
+
+<img width="622" alt="image" src="https://github.com/Mscay/taskanhTung/assets/72620926/acea829f-3fab-41bb-8378-82633c497d0e">
+
+<img width="935" alt="image" src="https://github.com/Mscay/taskanhTung/assets/72620926/14f93c17-9113-41de-8101-2105fe88fbac">
+
+Dùng cyberchef để decode đoạn mã trên (from base64, remove null bytes)
