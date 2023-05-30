@@ -36,3 +36,5 @@ Dùng cyberchef để decode đoạn mã trên (from base64, remove null bytes)
 Lấy được đoạn này ra và chạy trong powershell
 
 <img width="851" alt="image" src="https://github.com/Mscay/taskanhTung/assets/72620926/ec6f078e-52f8-4bb2-9244-304413c9a665">
+
+# Obscure
