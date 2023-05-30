@@ -20,3 +20,7 @@ Dùng lệnh "git log" để xem commit logs
 giải mã token với base64 và ra được flag.
 > flag: HTB{v3rsi0n_c0ntr0l_am_I_right?}
 
+# Emo
+Lấy mã Hash của file emo.doc để search trên virustotal
+
+<img width="400" alt="image" src="https://github.com/Mscay/taskanhTung/assets/72620926/f2c51d1d-f9f6-4871-94e8-9fec3500d89f">
