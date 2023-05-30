@@ -30,3 +30,9 @@ Lấy mã Hash của file emo.doc để search trên virustotal
 <img width="935" alt="image" src="https://github.com/Mscay/taskanhTung/assets/72620926/14f93c17-9113-41de-8101-2105fe88fbac">
 
 Dùng cyberchef để decode đoạn mã trên (from base64, remove null bytes)
+
+<img width="436" alt="image" src="https://github.com/Mscay/taskanhTung/assets/72620926/972f7e1f-450f-468e-a962-a06058f1bf14">
+
+Lấy được đoạn này ra và chạy trong powershell
+
+<img width="851" alt="image" src="https://github.com/Mscay/taskanhTung/assets/72620926/ec6f078e-52f8-4bb2-9244-304413c9a665">
